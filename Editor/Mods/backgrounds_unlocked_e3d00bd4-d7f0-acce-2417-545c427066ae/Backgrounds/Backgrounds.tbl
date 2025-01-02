@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="64d07522-f5ae-494e-b92d-77ae9c71feb1">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="38c7c859-c284-4df2-b17f-6199edc40e6b" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0ac56f8bgf0b8g0391g74f6g7210a286f66e" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h8146ab26gb71fgfdf9g7559g362d135fc30c" version="1" />
+        <field name="Hidden" type="BoolTableFieldDefinition" value="False" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Background_TricksterHedonist" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="4978ed0d-9bb9-4d87-82e0-02e785512661" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="a16099db-2d25-4d02-bf66-476302beb66e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h66725f5dgeda6gfb04g1ab7gc5da68502d88" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h4db0d75dg53f9g7201ge6e6g2cd21c63a0f9" version="1" />
+        <field name="Hidden" type="BoolTableFieldDefinition" value="False" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Background_AstralZealot" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="a1103fcc-da28-40d0-872e-2c46899ae240" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5426bad7-d02e-4884-aa2c-382d40f611bf" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h6e6133dfgccb3g9214g0f69g91059bf8e70f" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6ce88b25g7d30g1f03g8681gf4964a757806" version="1" />
+        <field name="Hidden" type="BoolTableFieldDefinition" value="False" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Background_WaterdavianMagus" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="b20cb269-417c-4a01-9f00-4c0f493f47fa" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="aa8ee193-973a-4d2b-906f-3f8488a75f2c" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h36c2f24dgf240g5991g526ag7834a5aec807" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h7ddc5bebg758fg4a91gd8fdg3f4b3522138f" version="1" />
+        <field name="Hidden" type="BoolTableFieldDefinition" value="False" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Background_CloisteredStray" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="9a839349-e128-4b92-aee6-b2b8a311fd7a" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="30a9679f-be5b-4484-9c8e-e5edc9245f53" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h05015e53g5de8g5f19gc0d9g2afa23837d08" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h5dac9402gf3f4g5f80g22c7g00eafe47f4da" version="1" />
+        <field name="Hidden" type="BoolTableFieldDefinition" value="False" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Background_BladeOfFrontiers" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="03423cd8-db56-4840-a01f-84c8c3b728a6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7e9fc515-6c03-47d0-952f-f346128d56e6" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h0fd40515g1ef9gac03gdb09ga6d59aecff4f" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h442fa030gd1efg1caeged54ga5a6a846164f" version="1" />
+        <field name="Hidden" type="BoolTableFieldDefinition" value="False" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Background_BloodWarVeteran" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="4ebf24e4-19f2-4634-a2ec-b0ce82199d6f" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="38a3fe7a-59f4-4dbf-88e1-6e9b62e74ff1" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="hf8cd0a7cg63b0g9632gf662g9d935758904f" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="hc6eed845g8f27g6d24g7f62g5de8ad605664" version="1" />
+        <field name="Hidden" type="BoolTableFieldDefinition" value="False" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Background_UnderdarkExile" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="22097482-335b-43bb-9eb0-55fa7883b1e6" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_8" />
+        <field name="UUID" type="IdTableFieldDefinition" value="da427b49-2732-43a0-808c-c8987de56251" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h61951d72g7b3eg2fb2ge41bg1c6ea3e52954" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h6092dd8agf997g0e57g503fg6d1de64ab517" version="1" />
+        <field name="Hidden" type="BoolTableFieldDefinition" value="False" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Background_GroveKeeper" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="2af9b9be-be8e-406a-852e-2df1f8684f3d" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_9" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1441d9c8-c117-47c9-858d-588cd003192e" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h01071923gd73bg7566g0909g2ace850c8b98" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h87c8a520ge2efg7e7bg87a5g3f7d57ab9bb5" version="1" />
+        <field name="Hidden" type="BoolTableFieldDefinition" value="False" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Background_VeteranMentor" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="5666d6ce-21d5-491f-8833-2650b15a699d" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_10" />
+        <field name="UUID" type="IdTableFieldDefinition" value="dba0a9d1-15bd-4061-99f2-f1ec0f758258" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h80f824a0g4357gbe5ag6d39gfcc00005e2bc" version="1" />
+        <field name="Description" type="TranslatedStringTableFieldDefinition" handle="h095c3339g4764g2ae4ge81eg64df1c1e510a" version="1" />
+        <field name="Hidden" type="BoolTableFieldDefinition" value="False" />
+        <field name="Passives" type="StringTableFieldDefinition" value="Background_LegendOfBaldur'sGate" />
+        <field name="Tags" type="GuidObjectListTableFieldDefinition" value="927b8097-a925-4174-8150-81ba2190d129" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

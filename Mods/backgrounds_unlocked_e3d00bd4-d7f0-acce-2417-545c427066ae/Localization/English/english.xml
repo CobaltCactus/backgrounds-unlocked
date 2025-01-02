@@ -1,0 +1,1021 @@
+<?xml version="1.0"?>
+<contentList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <content contentuid="h0ac56f8bgf0b8g0391g74f6g7210a286f66e" version="1">Trickster Hedonist</content>
+  <content contentuid="h8146ab26gb71fgfdf9g7559g362d135fc30c" version="1">Looking at you, people see someone eloquent, experienced, and a little dangerous. There's a sensuality to you that people admire, and you've made use of that fact, oh yes. If ever there was an emblem for night and all its dark promise, surely that is you. </content>
+  <content contentuid="h66725f5dgeda6gfb04g1ab7gc5da68502d88" version="1">Astral Zealot</content>
+  <content contentuid="h4db0d75dg53f9g7201ge6e6g2cd21c63a0f9" version="1">Drafted from your crèche into a military life, a taste for violence and a love for the githyanki ruler, Vlaakith, were seeded and nurtured within you. Now you are an agent for Vlaakith on the Material Plane, working toward the advancement of your species.</content>
+  <content contentuid="h6e6133dfgccb3g9214g0f69g91059bf8e70f" version="1">Wizard of Waterdeep</content>
+  <content contentuid="h6ce88b25g7d30g1f03g8681gf4964a757806" version="1">Bookish and ambitious, you rose to prominence among the upper crust of spellcasters in the thriving metropolis of Waterdeep. Displaced from that comfortable refined life, you find yourself adapting to a new one on the adventurers' road.</content>
+  <content contentuid="h36c2f24dgf240g5991g526ag7834a5aec807" version="1">Cloistered Stray</content>
+  <content contentuid="h7ddc5bebg758fg4a91gd8fdg3f4b3522138f" version="1">Adopted into a religious convent as a child, you grew up in the warm yet rigorous embrace of the faithful. Their tutelage was rigorous, too. Not much room for warmth, though, and you have found your heart yearning for fulfillment beyond the cloister, your boots for cobbles new. </content>
+  <content contentuid="h05015e53g5de8g5f19gc0d9g2afa23837d08" version="1">Blade of Frontiers</content>
+  <content contentuid="h5dac9402gf3f4g5f80g22c7g00eafe47f4da" version="1">Sleek as a leopard and bold as a bear with an empty belly, you have developed a reputation that grows and shifts along the Sword Coast. However, a discontent has settled in you, tangling your present in the cruel and complicated details of your past.</content>
+  <content contentuid="h0fd40515g1ef9gac03gdb09ga6d59aecff4f" version="1">Blood War Veteran</content>
+  <content contentuid="h442fa030gd1efg1caeged54ga5a6a846164f" version="1">Conscripted by an archdevil to fight in the Blood War against insane and horrifying demons, you emerged fiery and hardened as the core of a furnace. Escaping to the Material Plane, you have left the madness of war behind. But its burning, squalling spectre still haunts your waking dreams. </content>
+  <content contentuid="hf8cd0a7cg63b0g9632gf662g9d935758904f" version="1">Underdark Exile</content>
+  <content contentuid="hc6eed845g8f27g6d24g7f62g5de8ad605664" version="1">An apostate who has renounced not one, but two faiths, you find yourself adrift in a world where the Gods are real, certainly, but untrustworthy. What does it mean to live outside of church doctrine, outside cultist dogma? It is up to you to find that out for yourself. </content>
+  <content contentuid="h61951d72g7b3eg2fb2ge41bg1c6ea3e52954" version="1">Grove Tender</content>
+  <content contentuid="h6092dd8agf997g0e57g503fg6d1de64ab517" version="1">Master over a verdant grove that was home to life of all varieties, you have lived a life of peace-making and pain-mending. Forsaking the grove was difficult, but necessary, for the safety of the natural world is in jeopardy, and it is the duty of those with green thumbs and greener souls to aid it. </content>
+  <content contentuid="h01071923gd73bg7566g0909g2ace850c8b98" version="1">World-Wise Heroine</content>
+  <content contentuid="h87c8a520ge2efg7e7bg87a5g3f7d57ab9bb5" version="1">Veteran to a host of world-threatening conflicts, you have shrugged off the very idea of retirement. Peppermints and rocking chairs are for the infirm, and your muscle and mind are still as hard and strong as steel. Besides, young adventurers are headstrong - they need a little wisdom now and then. </content>
+  <content contentuid="h80f824a0g4357gbe5ag6d39gfcc00005e2bc" version="1">Legend of Baldur's Gate</content>
+  <content contentuid="h095c3339g4764g2ae4ge81eg64df1c1e510a" version="1">If evil is a nose you are fist squashing it flat. Such is the legend surrounding you in Baldur's Gate: a hero of the most boisterous variety, armed to the teeth, and packing a tiny space hamster. </content>
+  <content contentuid="h7639aedfg5b65g5022g983fg51ff0a58d8fe" version="1">Just Passing Through</content>
+  <content contentuid="h9be92907g7aaagf94bga9abgd9bfaeebf032" version="1">Trick the goblins in Moonhaven.</content>
+  <content contentuid="hac88a94eg594dg78e0g7a07gb13222e3e634" version="1">Very Important Parasite</content>
+  <content contentuid="h265256f8g4be8gb4b3g8e59g6715ebc80d45" version="1">Deceive any of the guards in the goblin camp.</content>
+  <content contentuid="hb702c14eg903egd487gf05ag538e79ed1316" version="1">Cheese Your Way Through</content>
+  <content contentuid="hec9215daga55bgcaa5g4722g07033d8e24f7" version="1">Talk your way past the bandits and enter the chapel.</content>
+  <content contentuid="h77dc592fg0714g6823g26c1g681f205d777d" version="1">Merciless</content>
+  <content contentuid="hd7b70367gb7abg4984gce9fgf25919290732" version="1">Manipulate the Flind into eating itself.</content>
+  <content contentuid="hb26ff47aga410g5507g8b51g9ff28cbaf724" version="1">Silver Blades, Silver Tongue</content>
+  <content contentuid="hda4c0337g0086gfa9ag9186g5d8044de31de" version="1">Convince Kith'rak Voss to leave without violence.</content>
+  <content contentuid="h53936540gca64g52bagcb5ag1308fdbd197b" version="1">Spiked</content>
+  <content contentuid="h42ba7e3eg5409g9f5egd283g54ed15f909c4" version="1">Poison the beer in the goblin camp.</content>
+  <content contentuid="hd47bd00egdb2cgbc09g6a58g0c4080a4d8f8" version="1">Devil's Advocate</content>
+  <content contentuid="h80bdb3deg52b6gdce5g3ff8gd69171c7e64f" version="1">Interrogate the dead mind flayer without drawing suspicion.</content>
+  <content contentuid="ha7090c41ge8d2ga399g255bg5e82e9cb05ed" version="1">A Better Offer</content>
+  <content contentuid="h4097f5fbgfea3gb731g2670g1cf34393fa5e" version="1">Convince the pit spiders to attack the goblins.</content>
+  <content contentuid="h9c99d4bcg3ae9g5e92g2271gbdaa5dbf0003" version="1">Anything for a Profit</content>
+  <content contentuid="h6e59d0dbg9fc8gfbfeg106eg25528ca7b390" version="1">Steal the toe ring from Crusher without getting caught.</content>
+  <content contentuid="h66a08970g5aa4gb0aag91bdgf411dc8433f5" version="1">Mirror Master</content>
+  <content contentuid="h5daf6fcbg6bacg97eegdfdag2014ec16e272" version="1">Trick the magic mirror in the Thayan cellar.</content>
+  <content contentuid="h38dcfba1gc083g17fbg993ag37dce6ae69af" version="1">Flexible Diplomacy</content>
+  <content contentuid="hcf5296e1ge76fg350ag1a68gaaaba09e9ea5" version="1">Betray the tieflings after convincing them to free Lae'zel.</content>
+  <content contentuid="hd40874e3ge515g153dg5d1agd8affe57b270" version="1">The Importance of Networking</content>
+  <content contentuid="hae9f1c70ge4aeg5e70g558cg9e3ba5b55e88" version="1">Talk your way into the Zhentarim hideout.</content>
+  <content contentuid="h978721f0ga312gec00gd2e8g62d3c89b50a1" version="1">One of Us</content>
+  <content contentuid="h21ce5416g5c0dg7ba7g47ecg916bcd7d46f6" version="1">Use the hag's mask to peacefully bypass her thralls.</content>
+  <content contentuid="h17eb066cg7cdege540ga874gfbe4b5ea2726" version="1">A Friend to All</content>
+  <content contentuid="h347bf3e6gbe39g3827g8ed4g3770ef598a95" version="1">Gain access to Grymforge peacefully by lying to the raft patrol.</content>
+  <content contentuid="h4b32fd4fg41cdgd758g1f98gcedd3013501d" version="1">Warmonger</content>
+  <content contentuid="h5714b3adg8c35gbb0cg88bag1c4caa29fae8" version="1">Cause Glut to stage a coup - then pick a side.</content>
+  <content contentuid="hce3386a2gd8d0g1908gcd31g13d1651fe8ed" version="2">Trickster Hedonist (Charlatan)
+</content>
+  <content contentuid="h6f432a1bg31e6gf361g81afg54ebad4e2f0a" version="1">Little White Lies</content>
+  <content contentuid="h9cbe5be4g378dgbfc4gfac5g4a22cb679a58" version="1">Lie to Arabella about the fate of her parents.</content>
+  <content contentuid="h647c853dgb94dg261dg36b2g38d48d2f35a8" version="1">Not My First Time</content>
+  <content contentuid="ha0030236ga343g3021g7567g90eb4ec9c2e6" version="1">Resist the truth serum when talking to Jaheira.</content>
+  <content contentuid="ha60cd576g369ag835cg1cdfg285db223e3d1" version="1">Shuffling the Board</content>
+  <content contentuid="hc41f8271ga22eg309fg8347g318262975942" version="1">Rig the game of lanceboard.</content>
+  <content contentuid="h8b057fafgd728ge847gf163g6c89c49bb4ce" version="1">The Devil's in the Details</content>
+  <content contentuid="h71773243g7ecdg0530gb2f4g46adce247884" version="1">Expose a half-truth in the orthon's contract with Raphael.</content>
+  <content contentuid="h7bbd4d98g7a32ged43g5775g5bd1f9c9a643" version="1">Morally Grey</content>
+  <content contentuid="hf20c8e75g5c54ga9b5ge4fcg6c8dd9130d72" version="1">Betray the trust of Moonrise or Last Light.</content>
+  <content contentuid="h46d62dcfge8e6g6045gdb2bg3d959194e049" version="1">Not to Worry, I Have a Permit</content>
+  <content contentuid="h952f45f7g6b94gb43bg2a2agc164aab5e06f" version="1">Evade repercussions when speaking to the Moonrise prisoners.</content>
+  <content contentuid="ha587b53cg57dfga743g319cg240636306d31" version="1">Tadpole Solidarity</content>
+  <content contentuid="he2ad58c0g70c8g7667g82a6gffb503ffebeb" version="1">Go along with Marcus' plan.</content>
+  <content contentuid="hda78038agd56fg5895gafacgcc2598191cb5" version="1">Always Trust a Dishonest Person</content>
+  <content contentuid="h6cc2b00eg6ba5g433eg9772g19a278b82413" version="1">Expose Marcus to the Harpers.</content>
+  <content contentuid="hb15e8becgbb8fg3c1cg89bdgc0c55275bed3" version="1">Know thy Clientele</content>
+  <content contentuid="hd0041757g58edgb3acg82f5g5cc10e5b79b4" version="1">Instigate Z'rell into showing off her gifts from the Absolute.</content>
+  <content contentuid="h489b2b12g8b02gde28ga78bgaba30a524422" version="1">Clear Conscience</content>
+  <content contentuid="hf05541b8g471fg8a51gd999g7eb33847913f" version="1">Successfully lie to Z'rell about the fate of the goblins.</content>
+  <content contentuid="h6ae36f08gde60gc1aegedfcg4775527e099a" version="1">Pied Piper</content>
+  <content contentuid="h9c967b16g630fg7876gf12bg2259d84e8d5c" version="1">Successfully influence the gnolls, either to break free or continue being subservient.</content>
+  <content contentuid="hd5382475g057ag349ag3a2cge9f663dcb86b" version="1">Tricks of the Trade</content>
+  <content contentuid="h0cb8912dg74c9g800cg98d7g195168f01cc0" version="1">Successfully pretend to drink from the steins of ale.</content>
+  <content contentuid="h83fd28b2gb832gc3aag91c9g53188e39c6a2" version="1">Takes One to Know One</content>
+  <content contentuid="h4459cc11g1e82gb539g25a9g9218bb212c36" version="1">Expose the true form of the toll collector by removing all her gold armour.</content>
+  <content contentuid="h740774b7g7f10gd06eg56dcg456725161ce8" version="1">Last Rites of the Dark Dancer</content>
+  <content contentuid="hee9d8e2ag8490g9003gf4f3g27e4b58dca10" version="1">Complete Eilistraee's ritual of sorrow and obtain her blessed blade.</content>
+  <content contentuid="h904b9438ga6f3gadfdg6457gc2168fe25a89" version="1">A Kiss Without Mercy</content>
+  <content contentuid="h3ce216e9gf0a4gcee6gaafegdcc821e19c6a" version="1">Endure the ritual of Loviatar until Abdirak is pleased.</content>
+  <content contentuid="h94eade53ga066gf447g6469gdbcecb734f27" version="1">Her Gift of Silver</content>
+  <content contentuid="h4ede55aeg60e6gd37dg3780g74ab02295d56" version="1">Recover Selûne's lost treasure through prayer.</content>
+  <content contentuid="h11bce60bg158agf78eg3710g2066a74716a3" version="1">Tipping the Scales</content>
+  <content contentuid="h4408fa79g57d8g6346g7370ga2a58697ee34" version="1">Earn the worship of the kuo-toa.</content>
+  <content contentuid="h14d438d2g5611ge4b0ge6ffg5c586ee1ff03" version="1">Treefather's Sorrow</content>
+  <content contentuid="hf3e76da9g18b3gde6cgfa9dge42ce7d07513" version="1">Unleash Silvanus' curse upon the grove.</content>
+  <content contentuid="hbd1277ddg5bffgb180gfd06gbeb8feec5369" version="1">Silvanus' Solitude</content>
+  <content contentuid="h60e70bd6g7a0eg83a7g899dgc84b5cc37357" version="1">Witness the ritual that seals off the grove from the world.</content>
+  <content contentuid="hedb71d21gafc2ge3a8g1084g724ea0fa364d" version="1">A Unified Spirit</content>
+  <content contentuid="hf4f64b73gd23dg8640g1000g0ece6d1f5b0d" version="1">Pray with the Flaming Fists at Waukeen's Rest.</content>
+  <content contentuid="h89b3aec9g3be6g046cg218fgededf2237363" version="1">Divinity Undone</content>
+  <content contentuid="hb7f54051g06aage8a6gab9bgc13f41858f05" version="1">Unlock and read the Book of Dead Gods.</content>
+  <content contentuid="h17031b98g900dgf0beg298bg0a9574093f08" version="1">Justice Sees All</content>
+  <content contentuid="h8cc6577dgfabag62edg21ebg4150806f51a5" version="1">Discover why Anders betrayed Tyr.</content>
+  <content contentuid="he3b50b85gfcacg836dgd2c8geb223cba4f6a" version="1">Shatter the Moon</content>
+  <content contentuid="hf7aaa38agc7c1g7d51gcb4eg66001726f70d" version="1">Destroy Selûne's protection over the Underdark fort.</content>
+  <content contentuid="h38d1f710g7a08g8be1gbd66g3074745a05da" version="1">Fate Must Wait</content>
+  <content contentuid="h2d64f503g0f3fgb361g8031g88c1d02226a2" version="1">Resurrect anyone in your party.</content>
+  <content contentuid="hef2b91fbg65ddge301gc301gb116515e1e86" version="1">Saving the Heretic</content>
+  <content contentuid="h853f6339g0ce3g02cag0263g3214ad5f9205" version="1">Learn about Maglubiyet and safely free his priest.</content>
+  <content contentuid="hf67e2ff1g2a55g309dg69b2gd0c2a45c5755" version="1">Acolytes of the Demonweb Pits</content>
+  <content contentuid="h8a042134g6166g7ef1g9f7fg4daf259a7257" version="1">Persuade the spiders in Grymforge to remain faithful to Lolth.</content>
+  <content contentuid="hb83bab1cgc862g70cfg8549g0541ad2c6e54" version="1">Trickster Hedonist</content>
+  <content contentuid="h039b9100g412bg1721gddb9gfee4b1bce2df" version="1">Act 1</content>
+  <content contentuid="h34d1a98egc78fg0a6egc52cg3c1f896a3cb2" version="1">Cloistered Stray</content>
+  <content contentuid="h997f5be9g53b5g2516g9efdg2560ff37314d" version="1">Act 1</content>
+  <content contentuid="h05b358dbgb04agafb4g6f1cg607569e807ad" version="1">The Importance of Networking</content>
+  <content contentuid="hfed9d634gb0fegc737gccfag6e2dbede254f" version="1">Talk your way into the Zhentarim hideout.</content>
+  <content contentuid="hbe22e755gedc7g55ddg118cga67c9ece67a0" version="1">Just Passing Through</content>
+  <content contentuid="h0060d7fbg7861ga554g9481g1e0e6e7f3f89" version="1">Trick the goblins in Moonhaven.</content>
+  <content contentuid="haa589a9ag39a8g7c0dg25eagfb8698606a4b" version="1">Very Important Parasite</content>
+  <content contentuid="h9fd97240g2538g87ffg3b5ag6a595cd6d146" version="1">Deceive any of the guards in the goblin camp.</content>
+  <content contentuid="he67892adg5f3fg4b3ag2235gc8be64bd7e0c" version="1">Cheese Your Way Through</content>
+  <content contentuid="h4b51df39gd81fg3156g31b4g3c8fd0e3efb7" version="1">Talk your way past the bandits and enter the chapel.</content>
+  <content contentuid="h0ea9cc35g130ag6c09g8b96gb4e35cca7f58" version="1">Flexible Diplomacy</content>
+  <content contentuid="h8af7bb4dg0283g37f9gbed6gac979cbd8d09" version="1">Betray the tieflings after convincing them to free Lae'zel.</content>
+  <content contentuid="hf492fb47g9270g602cg8fd8ga700d2a8569b" version="1">Mirror Master</content>
+  <content contentuid="h555d1b9dgdd01g80dcg6058g2eb4e4616e47" version="1">Trick the magic mirror in the Thayan cellar.</content>
+  <content contentuid="h4f63cb4bg621ag8883g7ca9g5008f866b010" version="1">Spiked</content>
+  <content contentuid="h14e19ea8g571fg7bb3g933fg1ed5d671547a" version="1">Poison the beer in the goblin camp.</content>
+  <content contentuid="he589fd8fg06d2g5522g5d67ga9812a453d94" version="1">Anything for a Profit</content>
+  <content contentuid="h4145135age045g06b1ge6c0g251b30cdd20b" version="1">Steal the toe ring from Crusher without getting caught.</content>
+  <content contentuid="hc0301959g0a78gb8deg75cegc538dce3a617" version="1">Silver Blades, Silver Tongue</content>
+  <content contentuid="habaf760eg2573g10fdg132cgdf72d5ed8dd1" version="1">Convince Kith'rak Voss to leave without violence.</content>
+  <content contentuid="ha8fd22bag1360g0ce3g3772ge93a02ae5a40" version="1">A Better Offer</content>
+  <content contentuid="h17d231c4g9089g06a9g2336g7525b087f8b9" version="1">Convince the pit spiders to attack the goblins.</content>
+  <content contentuid="h1cd069c1ga93cgeb7bg0b76g00ce2565f114" version="1">Devil's Advocate</content>
+  <content contentuid="h1bd12907gb7d1gb37bg5d50gf33ac0b0d86f" version="1">Interrogate the dead mind flayer without drawing suspicion.</content>
+  <content contentuid="h718d625eg9035g6885g288fg56818ce151be" version="1">One of Us</content>
+  <content contentuid="hdfa52d61g39c3g45b8g1120g949be869e9b3" version="1">Use the hag's mask to peacefully bypass her thralls.</content>
+  <content contentuid="hf0c08c63g627aged2cgfb76gc5b5b444daae" version="1">A Friend to All</content>
+  <content contentuid="h07a8f482g60b0g4957g1a69ge4f040ef841e" version="1">Gain access to Grymforge peacefully by lying to the raft patrol.</content>
+  <content contentuid="h311b20cbga06eg04f8g18ebg36219e311173" version="1">Warmonger</content>
+  <content contentuid="h421f0672g0792g7080gd15fg7dae52b20c86" version="1">Cause Glut to stage a coup - then pick a side.</content>
+  <content contentuid="hb765d6c3gf948g56dcg02bcg4fe27a293a74" version="1">Legend of Baldur's Gate</content>
+  <content contentuid="h41b01be4g58aeg8ebag1cfeg3e16775c0da8" version="1">Act 1</content>
+  <content contentuid="h1a620015gff14g8bceg8894ga6d4e624bb02" version="1">Chicken Chase Extraordinaire</content>
+  <content contentuid="h9e7c0d12gf369gb4b3g6bc7g34ee04624efa" version="1">Win a match of chicken chase.</content>
+  <content contentuid="hdbd04a2bg4757g4fb3gb737g5d4d0776e473" version="1">A Bard's Muse</content>
+  <content contentuid="h7cf42ee4g7eb4g6228g8a71g2c1e570bc8a3" version="1">Inspire Alfira the bard.</content>
+  <content contentuid="h9aedec56ge118g0830gfea1g53802c9209ac" version="1">Life of the Party</content>
+  <content contentuid="h755ba2bcgb35dg93f1g5652g7848adfb9dc6" version="1">Take part in the goblin camp's toast.</content>
+  <content contentuid="hbf5e7462gdf40g0923g1a1eg18a870e82fd7" version="1">Heart of the Creator</content>
+  <content contentuid="h83457943g38f7gdcf6ga002g941c8657c48c" version="1">Perform in a play with Bernard the automaton.</content>
+  <content contentuid="he7001063gb4e3g3038ga1afg7d323e0a35c4" version="1">A Very Tall Tale</content>
+  <content contentuid="he30efbf3g05b9g3a28g7ee0gbf2e630eb4b6" version="1">Tell Volo a dramatic story fit for a chapbook.</content>
+  <content contentuid="h9f1a8a58g5033gdf80gaa22g85b6a9478b01" version="1">The Price of Ink</content>
+  <content contentuid="hb2afed9agf3ccgb3c7g9560gfb97535f1597" version="1">Free Oskar the painter from the Zhentarim.</content>
+  <content contentuid="hb941e291g353eg484bg7704g78ae33bded49" version="1">The Art of Agony</content>
+  <content contentuid="h81b70a0ag3aabg3796gbd91gb10cb2fbea95" version="1">Perform for Loviatar's pleasure in her ritual.</content>
+  <content contentuid="h2f829bb2gd370g8eb0g0d0fg32cc0e2f76ff" version="1">Celebrant</content>
+  <content contentuid="h7702b35cg60d8gf787g7e23g74181892ee68" version="1">Enjoy a dance in camp with the tieflings.</content>
+  <content contentuid="h768f2764g8ea3g831bg82b5g706f7ce44e08" version="1">Made You Look</content>
+  <content contentuid="hfca6146dg75f4g711bg29b3ge6aad84da192" version="1">Earn Mattis' respect by taking his ring.</content>
+  <content contentuid="h604f7149gcd24gc23dg37b6g1b5fe6c34fa5" version="1">Feel the Beat</content>
+  <content contentuid="h1ea76c79ge6afgcf43ge06dgeddd76447a3c" version="1">Successfully perform on the goblin war drum.</content>
+  <content contentuid="h2f389e93ga2efg6f74g5576g19d5a3ad39bb" version="1">Give Them a Show</content>
+  <content contentuid="h1cd432b5gefcfgdc53gd433g05acfc5fb5cd" version="1">Get the goblins on your side while duelling Crusher.</content>
+  <content contentuid="h03ea917cg1387g5d27gf75cgc5f738c37a18" version="1">A Story for the Ages</content>
+  <content contentuid="h192efeefg5703g446ag0f0bg15a499f542c3" version="1">Turn someone to your side with a well-timed tale.</content>
+  <content contentuid="hb0bf892egfe42geaf6g1f27gc212d9341e44" version="1">Blade of Frontiers</content>
+  <content contentuid="h26195685ge47ega6bag3357g5a5f587526c3" version="1">Act 1</content>
+  <content contentuid="h5adce26fg9696g2997gda4dge8c3c804656a" version="1">The Most Unfortunate Gnome</content>
+  <content contentuid="h620ee28fgf45fge6f2g6925g44b483725472" version="1">Rescue the gnome from his fate at the windmill.</content>
+  <content contentuid="h6f26bd5egfafbg1699g3f64gdffca7f4dcc0" version="1">A Lethal Endeavour</content>
+  <content contentuid="hd679eeb4g54f4g4989gb97eg2871ee98d11a" version="1">Escort Baelen out of the field of bibberbangs.</content>
+  <content contentuid="hb901903agbf5dga439gdbe2g20966959b1b8" version="1">Protector of the Small</content>
+  <content contentuid="h2ec23048g138fg3a56g6a0cg285aa268abc6" version="1">Save Mirkon from the harpies.</content>
+  <content contentuid="he624f423g5b92g4c0fg1a1bgff260e78202e" version="1">Guardian of the Forgotten</content>
+  <content contentuid="he7e1d65bg22a2g5bdcgef64g3e7fa50611d0" version="1">Save the tieflings from the goblin assault.</content>
+  <content contentuid="h14e54532g54d5g3985g8b7eg9c05f4f78490" version="1">Liberator</content>
+  <content contentuid="h295ef43cg133ege87fgf79ag5e7be2a35f4b" version="1">Liberate the enthralled fishermen from the mind flayer.</content>
+  <content contentuid="hcd8303b2g37a2gb5fbgf9a7g454793ea1da7" version="1">Snake Whisperer</content>
+  <content contentuid="ha718007dg4cb8gaf9dg8423g00237984e1ca" version="1">Protect Arabella from Kagha and her serpent.</content>
+  <content contentuid="h69fb5462gd6d4gfcbag19b4g327d1250412b" version="1">Rescued from the Flames</content>
+  <content contentuid="h5aec98ecg8b60g54b2gd469gac55f23cf246" version="1">Save whoever you can from Waukeen's Rest.</content>
+  <content contentuid="hb8d6ef0bg5e54gc0a5gdb9eg9c5aef8aa078" version="1">The Bard with Nine Lives</content>
+  <content contentuid="hc06a58a2g2122ga125gc368gbe5b2d4e7791" version="1">Rescue Volo from the goblin camp.</content>
+  <content contentuid="h9d40fe67g8e48gf67bgcc3eg82f6bce6596f" version="1">Fate Worse Than Death</content>
+  <content contentuid="h5b68fe06g6761gbe42ge473gf23605baf3a4" version="1">Save Liam from his goblin torturers.</content>
+  <content contentuid="h01d095a4g1ec8ge4f0g5663g337dafa63e2c" version="1">Saved by a Thread</content>
+  <content contentuid="hf53ec4e8gd800g355eg43a8gb2371df0ae31" version="1">Save Smythin from his lethal fall.</content>
+  <content contentuid="he50367c9g8aa2g46b3gb2acg9f57beca1626" version="1">Unmasking the Truth</content>
+  <content contentuid="h1794a80bgb5b2gf601g5fa4gcf1a11016ff5" version="1">Free one of the Hag's masked thralls.</content>
+  <content contentuid="h6f7c1eeegabf8gef6eg93a6g809aa26fc457" version="1">A Timely Rescue</content>
+  <content contentuid="h150d6963ge4a5gc660g3e49g5c9341d75c47" version="1">Save Findal from the goblins who kidnapped him.</content>
+  <content contentuid="h8e04149ag67d8g4e6dg3936g35b7e51a915e" version="1">Breaker of Chains</content>
+  <content contentuid="h81780133g13b8gc52dgc831g318b42e675e3" version="1">Save the deep gnomes from Nere and the duergar.</content>
+  <content contentuid="h5d2fdef4gcb64gd643g50f9g4dc080621873" version="1">Grove Tender</content>
+  <content contentuid="h252a5302g2351ge0aag07acgec933b4e6a54" version="1">Globals</content>
+  <content contentuid="h2ae0e899ga4b2g0190g2fc5gc64fc2a78913" version="1">Act 1</content>
+  <content contentuid="h0595fa2fga1c5g3f8ag8580g996826f014ca" version="1">A Golden Masterpiece</content>
+  <content contentuid="h0559bdabg8208gefc5g2776gf73d085b3395" version="1">Sell an item worth at least 1000 gold.</content>
+  <content contentuid="h12d6bd93gbea5g5385g153cge21ecb5e7228" version="1">Valued Customer</content>
+  <content contentuid="hd2a98221g0660g7aabg9ab0gaba43d98af42" version="1">Trade with someone who has High approval of you.</content>
+  <content contentuid="h9a1ba6adg7c26g1f0fge4b2g795ef14c2232" version="1">A New Vision</content>
+  <content contentuid="hc3b7815cg5bacg481bga572g3c57b08cd182" version="1">Reforge the broken spear.</content>
+  <content contentuid="h2a5e6b4ag085dg2944gd53cg6db8009113e6" version="1">The Finest Ingredients</content>
+  <content contentuid="ha98012e0gbad1g374agb758g201184df7df4" version="1">Create a masterwork item from sussur bark.</content>
+  <content contentuid="h94220656g3e2dg51e9ge288gd1a765b3c839" version="1">The Apprentice Turns Master</content>
+  <content contentuid="h6912e78bgd5aag34dcgdd9dg898132d216bf" version="1">Craft Nettie's antidote in the cauldron.</content>
+  <content contentuid="h147ac415g1d62g9021g1a2age55ef00f5af7" version="1">Regeneration</content>
+  <content contentuid="hca268388gf2f4g84ecg1c1dg90fd879cddfd" version="1">Restore power to the elevator in the Arcane Tower.</content>
+  <content contentuid="h8a4a084fg7e54g4b78g7fb9g24aa19833c10" version="1">In Working Order</content>
+  <content contentuid="hbbd2a539g5d83g7607g10ddg3316557fb650" version="1">Repair the elevator in the Zhentarim hideout.</content>
+  <content contentuid="hf8e24535g440eg5406gc064gc2b5ba0a17f2" version="1">Mind Over Mushrooms</content>
+  <content contentuid="hc99f7146g0beeg9fa1g3bafgb034ec415ec5" version="1">Gather ingredients for Omeluum's potion.</content>
+  <content contentuid="h92a58aa2g0e78g5667g8509gab445dc96013" version="1">An Artist in Need</content>
+  <content contentuid="h9cdc342cg9651gd1afga99fgc8d62592d56c" version="1">Rescue Oskar the painter from the Zhentarim.</content>
+  <content contentuid="he0cad277g09a5g8b8bgf8edgd4723d7420ce" version="1">An Acquired Taste</content>
+  <content contentuid="he4babc02g9c52g4bd1g19b1g251d582bc4ee" version="1">Drink one of Auntie Ethel's unique potions.</content>
+  <content contentuid="h0fefa1aag4e8dg65f7g7493g177a271f1109" version="1">Trash &amp; Treasure</content>
+  <content contentuid="h44cb359dgf2bdg6c75g1b93gaf2f4fa11268" version="1">Observe the effects of the Chest of the Mundane.</content>
+  <content contentuid="h46a49c42gb6c9gb92agdb2fg98b203fab2b8" version="1">The Spider's Gift</content>
+  <content contentuid="h0fa2b05ag9044g8e07g267ag1203c8f4ecdc" version="1">Identify the drow armour near Waukeen's Rest.</content>
+  <content contentuid="h4598a50fg6fbfgdaa9gb79agdd1de9dd08da" version="1">No One Left Behind</content>
+  <content contentuid="hbcc67b52gd2bbg7ff5g796cg022a5f3384a1" version="1">Ensure all of the Grove's defenders survive the first goblin assault.</content>
+  <content contentuid="h8199e27bg87a6g7e30gb475g8863d093522f" version="1">Expert Opinion</content>
+  <content contentuid="ha80da0ccgf53eg53degb698g3c93f5eabd3e" version="1">Evaluate the ruins in Grymforge and share your findings with the duergar mason.</content>
+  <content contentuid="h08be2ceagbddeg4fb6g4883gf35ac607c3b5" version="1">Art Endures</content>
+  <content contentuid="h6d33a2cbg21c7g9f98g2d84g0afe0e684605" version="1">Craft something in the Adamantine Forge.</content>
+  <content contentuid="hd960e65eg5731g32fegbe4agc87e7dc601c3" version="1">Blood War Veteran</content>
+  <content contentuid="hb5fca3d8gbc8dg5a6cg26b5g4d9177f68306" version="1">Act 1</content>
+  <content contentuid="h5d96fcfag87c0gb04dg524ag1b9ba48ba73a" version="1">Cursebreaker</content>
+  <content contentuid="hbaa6acafg65a1g3222g65a7g8f1374b874cd" version="1">Discover the curse of Yeenoghu and destroy his hyenas.</content>
+  <content contentuid="hceae61c5gd005g725fg3a52gb3a0ffa18219" version="1">Eyes of the Wild</content>
+  <content contentuid="h9193c74dgc012gd95dg1f15ge0cf45097b26" version="1">See past the illusion covering the swamp.</content>
+  <content contentuid="h37962c2fg886cg2b56gfbebg44987a106827" version="1">Walking on Air</content>
+  <content contentuid="h08c4af2fgea53gd5d5gcaaage741860e6977" version="1">Successfully use a fairy ring.</content>
+  <content contentuid="h41d33cedg8ff3g9186gf38eg33cf1378c227" version="1">Rock Steady</content>
+  <content contentuid="hc64eaf9bg60e0g5618g5409g315bc87a3f0c" version="1">Survive the bandits' rolling boulder trap.</content>
+  <content contentuid="heac2df21g2eafgbfddg2afbg93542a30d38e" version="1">Mushroom Enthusiast</content>
+  <content contentuid="h66a16c11g7ea7g72edga41bg056e8b1fd761" version="1">Destroy each kind of hazardous Underdark mushroom.</content>
+  <content contentuid="h301e5f1ag5c21g7299g92ddg900170b016f9" version="1">Abyss Jumper</content>
+  <content contentuid="hf26e4be0gcf28gfcdeg371bg4eb0e71d353a" version="1">Enter the Underdark through the bottomless well.</content>
+  <content contentuid="h057bd27fgf51cg86f6gdb08ge7ab652cdf85" version="1">Cub Tamer</content>
+  <content contentuid="hc72061a2g56e4g0274g9f14g6270d4f9086f" version="1">Successfully tame the owlbear cub.</content>
+  <content contentuid="hf608385cg9a22g4ec7gf199gba6fa91d96f2" version="1">A Mother's Fury</content>
+  <content contentuid="hcc90f7f2g70f9g6b4bgc4c8ga13f5ccfd67b" version="1">Triumph over the mother Owlbear.</content>
+  <content contentuid="hd36ed22dgc17ag8765gd43bg042b19f21cdd" version="1">Sticky Fingers</content>
+  <content contentuid="hb8f8e5bbg400ag2d39gba74g16d6ebb9d36b" version="1">Secure the pouch from the spider crevice.</content>
+  <content contentuid="h3fabeee8gdb9bgaf85g092bg0bdc90a001c1" version="1">Nest Egg</content>
+  <content contentuid="h5df4b2ccg45b8g837cgb4fage5f93d0d1c64" version="1">Take an item from the Carrion Crawler nest.</content>
+  <content contentuid="h49a35fe2g59aagb587ged12gc70da6cafc0b" version="1">Clever Cuckoo</content>
+  <content contentuid="h00d7b92cg567cgc439g6a99g894e8a7808a5" version="1">Steal from the giant bird's nest in the Underdark.</content>
+  <content contentuid="h8615b123gdae9gd716g1041g8dea3c6bb011" version="1">A Noble Endeavour</content>
+  <content contentuid="hea718cdag8b63g2adeg21a2g41676b1de67e" version="1">Effectively use a noblestalk mushroom.</content>
+  <content contentuid="h43308c23g2369gb00dgc56fg664b4871e668" version="1">The Floor Is Lava</content>
+  <content contentuid="he23dfc5bgd8ecg7c38g43c2gd77a49e1be31" version="1">Defeat the Lava Elemental in the lava lake.</content>
+  <content contentuid="h49a5d16fg3f57gc54agfd64g8033b3c40a70" version="1">Underdark Exile</content>
+  <content contentuid="hc77cbff2gdf63g3a62g445dg7afbd2ee7ae6" version="1">Globals</content>
+  <content contentuid="h2363e640gb14egf852ga4cag7e4be9f6f2af" version="1">Penchant for Diplomacy</content>
+  <content contentuid="h1c97a130g808bg48e6g45cbg9cf566ae6e55" version="1">Reach a High level of approval with a companion.</content>
+  <content contentuid="h7b5dd534g5682g95b8gf318gba15b1453eb8" version="1">Dragon's Hoard</content>
+  <content contentuid="h440c6c2fg0af1g8f35gadefgf1ee9d939651" version="1">Have at least 2000 gold among the party.</content>
+  <content contentuid="h88912c8fg62ddg3affg2708gcdc880a1ab71" version="1">Eldritch Authority</content>
+  <content contentuid="hd49a417age104g17b7gbbbdg96218a310728" version="1">Become a True Soul.</content>
+  <content contentuid="h620a1e03g29e6g89efgbe07gac7c5163101c" version="1">Fine By Me</content>
+  <content contentuid="h1f9f8448g1df9gb332gbb93g3acfbb9ca140" version="1">Use your wealth to bribe a guard.</content>
+  <content contentuid="hbde68d3agd418gf1a0gf6c1gf3ad2594a4c8" version="1">Entitled</content>
+  <content contentuid="h8327506bgcc24g8658g9092g53f996bf1ad5" version="1">Earn a title for your deeds.</content>
+  <content contentuid="he99ef3d8g0f62gc244g826agdf8d837630fa" version="1">Act 1</content>
+  <content contentuid="hdd24b519g2ad1gb839g5651gb90b1452394a" version="1">A Man of Many Talents</content>
+  <content contentuid="hbc5b8563gd3edg052cgfef3g0d948a269f4b" version="1">Expand your retinue by bringing Volo to camp.</content>
+  <content contentuid="hdb3c589dg2bd4ge384g0d46g2ca43ff4ea06" version="1">Protector of the Duke</content>
+  <content contentuid="h0532b2f5g0195gf792g3a95ge69938ade068" version="1">Rescue Counsellor Florrick from the burning inn.</content>
+  <content contentuid="hec77db41ge9c5g2226g0963g68fa493eb58c" version="1">Lest Ye Be Judged</content>
+  <content contentuid="h7a91854fg9ca6g1adbgdc01g497e6485998b" version="1">Learn Astarion's history as a magistrate.</content>
+  <content contentuid="hbf48c3aagd04bg37c7g7035ge175680de9fb" version="1">Blueblood Solidarity</content>
+  <content contentuid="hda8b57eeg4437g8519g1433ge2b7af13666b" version="1">Learn Wyll's family history.</content>
+  <content contentuid="h14d3d97cgf2f1g0963gdd90g4873ea9e1546" version="1">Soul for Sale</content>
+  <content contentuid="h2d2e97f5gaa30g9702gd112g23076099f066" version="1">Acquire a Soul Coin for your personal collection.</content>
+  <content contentuid="h1f481d1eg5db1g48dfgb551gab004cd28e55" version="1">Bodyguards for Hire</content>
+  <content contentuid="hc0f1f5acgb902gdb45gfdb0gfaeea1b01d93" version="1">Recruit the ogres to protect you.</content>
+  <content contentuid="h0c7dbf5fg35dbgdbd7g1520g1a942076b67e" version="1">Noblesse Oblige</content>
+  <content contentuid="h48d02f75g1a32gd1acg8dd0gce6dc1c1f25a" version="1">Ignore the pleas or requests of a companion in dialogue.</content>
+  <content contentuid="h4563f6d0g18a9g1397g576fg3864ac300e8a" version="1">Know Your Place</content>
+  <content contentuid="h25b8d45ege5b7gcbb1geb0eg3cdc46b51d00" version="1">Leverage your role in the drow matriarchy to force Dhourn to abandon his quest.</content>
+  <content contentuid="h6e6d0078ge934g1e9eg50d0g60d082e6492d" version="1">Waterdavian Magus</content>
+  <content contentuid="h29881e13g93d7gbcbeg743fg916b8338ed5e" version="1">Globals</content>
+  <content contentuid="h8a2b71bcge99cgd5e9g82fbgf88aff267153" version="1">Whispers from the Grave</content>
+  <content contentuid="h0d23999fgc83dgec3fge83fg416393131449" version="1">Glean some wisdom from speaking with the dead.</content>
+  <content contentuid="he9dc649bg1145g8370g7c21g4c8902d82742" version="1">Act 1</content>
+  <content contentuid="h4854a0c3g504dg59b1g9983gce63d880a84a" version="1">Secrets of the High Chieftain</content>
+  <content contentuid="hb01833d4gf613g8da5g00adg96ec33a25aa8" version="1">Read Volo's Guide to Goblins.</content>
+  <content contentuid="h72f85b9bg4db8ga594g010dg1d5a7566e253" version="1">Secrets of the Sundering</content>
+  <content contentuid="h1b254e65gafffgeaf7g5214g7fe5643aba8b" version="1">Unlock and read the Book of Dead Gods.</content>
+  <content contentuid="h745e3bb0g24c0g7affg8009g667f64ec1512" version="1">Secrets of the Shadow Druids</content>
+  <content contentuid="h9e4b5da1gdd14g651bgae1cg07c56216536a" version="1">Discover and read Faldorn's Canticle.</content>
+  <content contentuid="h1930ebc6g9bf9g7d3eg12d5g44ac641eb78e" version="1">Secrets of the Necromancer</content>
+  <content contentuid="h7daf430dg0ab2g7e31gc2a6gc3eafbb29c8d" version="1">Discover the strange nature of the Thayan tome.</content>
+  <content contentuid="h4b042906gd0fcg6e57gf3b3gf2dd96441573" version="1">Secrets of the Sussur Tree</content>
+  <content contentuid="hb1b45fdcgecb3ga522gfcd0gf9c6ea18e813" version="1">Disable an arcane turret using a sussur flower.</content>
+  <content contentuid="h33b2a3ebg6caegbfd1g6f2dgda67aceb25d7" version="1">Roots of the Grove</content>
+  <content contentuid="h79fd793fg634fg7650g86deg5ddaad19878f" version="1">Learn local history from the druidic frescos.</content>
+  <content contentuid="he68d1ff6g158ag17eag432fgf86667505afa" version="1">All Knowledge Is Worth Having</content>
+  <content contentuid="hba4ade5cg9e74g58c8ged46g8162377073ca" version="1">Finish reading the Thayan tome of necromancy.</content>
+  <content contentuid="h2dee6e86ga36egc88dge8b2gde8dd0236f35" version="1">A Solitary Spider</content>
+  <content contentuid="hbb06a937g7f30g9e83gd76fgbc183213a40d" version="1">Read the arachnomancer's journals at the bottom of the well.</content>
+  <content contentuid="hd17123b1g251bg0b39g81e2g7de2280ee7c6" version="1">The Phases Unfold</content>
+  <content contentuid="h43817ae9g0c0dg84e7gfe04g6d3308f65bb2" version="1">Solve the moon puzzle sealing the door to the Underdark.</content>
+  <content contentuid="hf4b2afd5gf5dfgb5b3g8c6bgd09ddb6b1614" version="1">Reanimator</content>
+  <content contentuid="hc86ee935g7171g88ceg2cbeg349fcd28f81b" version="1">Correctly follow Gale's instructions to resurrect him.</content>
+  <content contentuid="hd422a4e3gbf62gd425g3c24ge49a04e88d81" version="1">The Forbidden Arcane</content>
+  <content contentuid="h2e861b0eg2e87gbd9cgead7ga135a4ecb1d2" version="1">Read Omeluum's notes on illithid magic.</content>
+  <content contentuid="h9be921degc277g84ffg73d7g910ed4b120dd" version="1">Secrets of the Matron</content>
+  <content contentuid="hf14779e4g27b2g3d88g3b02g6682d50b7a5c" version="1">Read the obscure text by a drow matron.</content>
+  <content contentuid="hd2b783d6g83cdg1cb7g2498gc7a09b095665" version="1">A Natural Alliance</content>
+  <content contentuid="h48110e77gcb56g7e25g1bdcg2e7d9d77e1a9" version="1">Recognise the druid and Harper armour.</content>
+  <content contentuid="hbddbc135g940dg1965g4d76g8c77f5b7b4e2" version="1">If I Can't Have It...</content>
+  <content contentuid="h9dd133cag4163g4195ga35bgac2720b68959" version="1">Discover the secrets of the Adamantine Forge from all three drow wizards.</content>
+  <content contentuid="hc68cc27egf6d2gf747g6842g8a3061e6a547" version="1">Astral Zealot</content>
+  <content contentuid="h06d2fc39ge774ge0a5gff46ge68b4285e7e4" version="1">Globals</content>
+  <content contentuid="hd3fa7218gd506ge70dgc1c2ge4f8193cfe0e" version="1">One for the Ages</content>
+  <content contentuid="hde5bd5b2g05c2g53d8g88b6gc90e1815793c" version="1">Survive a fight in which you kill ten or more enemies.</content>
+  <content contentuid="ha876de9ag6907gbf7eg48d3g643210fb0c3f" version="1">Pentacrush</content>
+  <content contentuid="h0d96e31ega005gf70fgecd5g29049b95be4b" version="1">Kill 5 enemies in a single turn.</content>
+  <content contentuid="h50e93ab0g3b18g4d4cg4aa4ga4285bbc6a33" version="1">Strategist</content>
+  <content contentuid="h10702bdag21a7g2616g76ebg0f6f616f7ea7" version="1">Destroy a powerful foe in one strike.</content>
+  <content contentuid="hd778ee4dge2c1g3ac8g63a6ge02e350f9ca6" version="1">Act 1</content>
+  <content contentuid="hea64d0c9g3b5egda38ga0f9g594ad28432f6" version="1">A Headless Horde</content>
+  <content contentuid="h52830aadg4ccbg689cg892ag5c7cef4e2bd9" version="1">Kill every leader in the goblin camp.</content>
+  <content contentuid="h99781fc0gdc90g1d18g2137g8dfa44c92971" version="1">Conquer the Conquerors</content>
+  <content contentuid="h28063f07gc3f4g86bbga999g7980a7ae2b13" version="1">Defeat the githyanki raiding squad.</content>
+  <content contentuid="hc7a6a076g953egfe32gb7b5gc771f5895e8a" version="1">Warrior of the Hells</content>
+  <content contentuid="h532b9125g4d88g2f0fg7edeg5cd463ba36f6" version="1">Kill the cultist leader seeking Karlach.</content>
+  <content contentuid="h5bcadabcgb6e1g25c6ga66eg1eee21ef3f51" version="1">Chain of Command</content>
+  <content contentuid="h1948b462g1395gc77dgdafagaed7cd6646dc" version="1">Follow Flaming Fist orders at the burning inn.</content>
+  <content contentuid="ha966ae20g9651g331eg006aga114ee7c5176" version="1">Drowned in the Dark</content>
+  <content contentuid="h4bd04589g8061g3ea5gbad3g11d1c80648d9" version="1">Defeat the duergar patrolling on the Ebonlake.</content>
+  <content contentuid="h53ac4645g7d2cg61b0gbe74g29206bbbab44" version="1">No One Left Behind</content>
+  <content contentuid="hb248d462g97e0g0656g7b76g47030a696ae3" version="1">Ensure all of the Grove's defenders survive the first goblin assault.</content>
+  <content contentuid="h25c8ed13g186ag5c75gee13g781792dc8467" version="1">To Arms!</content>
+  <content contentuid="hb3bd6ab5g1d94g6217g0871g147a1c2536b1" version="1">Help Guex learn how to fight.</content>
+  <content contentuid="h824f8cd5g1cfbg9f1ege5fege948da2354eb" version="1">World-Wise Heroine</content>
+  <content contentuid="he57f87e5geb1bg7d15gc68egf4a478ab52c6" version="1">Act 1</content>
+  <content contentuid="h19dcc3a8gadf1g172dg81f4g6f53bf7219a8" version="1">Idolatry</content>
+  <content contentuid="h3b60a812ge9c2g6cd0g0d15ged1c6c6f742e" version="1">Help Mol steal the Idol of Silvanus.</content>
+  <content contentuid="h87772477gd804g8fbfgcc19gc9cefdd40799" version="1">Not On My Watch</content>
+  <content contentuid="h2a118c3ag0351gb0f7g81dbg3c84b17f0626" version="1">Save Arabella from Kagha and her serpent.</content>
+  <content contentuid="h44137e31gdcd6g0ec3gc2fbg9bfa82ee20bd" version="1">Protect Your Own</content>
+  <content contentuid="hbc60ae97g1d71g5fb4g2655g4d59d84e2b8e" version="1">Protect the child who took the locket from Barth.</content>
+  <content contentuid="h1d85d30fga563ga546g9a5bg8de1295e3f04" version="1">Artful Dodger</content>
+  <content contentuid="hf862718ag73d7g4f9bgcd0cgad78be229932" version="1">Earn Mattis' respect by taking his ring.</content>
+  <content contentuid="h776f3039gcfb6ge4fdga8ccg5da5ab4cd0d7" version="1">Slaying the Piper</content>
+  <content contentuid="h79f84933g10fdg4c84g753dgb380fd762add" version="1">Rescue Mirkon from the harpies.</content>
+  <content contentuid="hc09cd905g4dc1gbe36g2d40g288b17891ac1" version="1">Hero for Hire</content>
+  <content contentuid="hb411c250gc113g95b6g472agbddefbaaab23" version="1">Get some coin out of the Zhentarim survivors.</content>
+  <content contentuid="hb24d5d96gda10g1687gd942gd05a2ce3a4d9" version="1">Hunger Never Fades</content>
+  <content contentuid="h62ec94efg69e0g2bf8gbd62ga8c6c8ff7819" version="1">Fill your plate at Raphael's House of Hope.</content>
+  <content contentuid="h5b53ae00g46b8g0758g3717g326c6d44a6d4" version="1">Family Comes First</content>
+  <content contentuid="h3de2bec2g32a6g8c00g03b3gf9998461e665" version="1">Encourage Meli to tell the truth about the amulet.</content>
+  <content contentuid="h14b27ae8ge3bagaad1g7988g94d634d6eabf" version="1">Born Innocent</content>
+  <content contentuid="h8822cbe8g0546gc464g5a87g048af4897159" version="1">Save the owlbear cub from the goblins.</content>
+  <content contentuid="h6cb6cf1cgfee4g0460gf1dfgae557cfe505f" version="1">What Price Dignity?</content>
+  <content contentuid="h44e493cfg9d9fg80b7g2e39g35310893e83b" version="1">Steal the toe ring from Crusher without getting caught.</content>
+  <content contentuid="hfe10b11dg7f00g2d8cge6c1g9d550ca26208" version="1">Pyramid Scheme</content>
+  <content contentuid="h0708e1ffge4f3g26c3gd363g585b71a4e464" version="1">Convince the ogres to work for you without giving them gold.</content>
+  <content contentuid="heccef899g28fbg195dgc5f5ge1d00e850ee8" version="1">Paying It Forward</content>
+  <content contentuid="h32699671g2705ga0c6gfd48ga52628274bd6" version="1">Give Mol money to found a guild in Baldur's Gate.</content>
+  <content contentuid="h45d89761g8b11geaa0g7f48g353f75c6899b" version="1">You Can't Take It with You</content>
+  <content contentuid="h7fd7d63eg37bag7ae1g9718g88b47e280d30" version="1">Loot the dead gnomes in Grymforge before their corpses are thrown into the river.</content>
+  <content contentuid="h1e9c1325g8159g4fb5gd03fgaebf27323c80" version="1">Cloistered Stray</content>
+  <content contentuid="h3ef7b07agcb8dg04d4ga268g382f75ee7a05" version="1">Act 2</content>
+  <content contentuid="hbba9f48ag7b3dg1a14g9145g6e5c784bc7f4" version="1">Moonweaver's Prayer</content>
+  <content contentuid="h5b84aac7gaa89gfbd4g1517gffcc183983e6" version="1">Witness Isobel's ritual to keep up the protection of Last Light.</content>
+  <content contentuid="h30c8ce4bg0aa0ga214g152cga1d4adbb9f30" version="1">Honing the Darkness</content>
+  <content contentuid="h181de554g993bg14d8g4fbagd173810bdd51" version="1">Pass all of Shar's tests in the middle of the cursed town.</content>
+  <content contentuid="h26f41bd7g5c1eg0b88ge4efg573ec7dfb4d3" version="1">In Her Footsteps</content>
+  <content contentuid="h66ab2db7g069dg47c0ge3cbg41b598153ff3" version="1">Solve each of Shar's trials in the Gauntlet of Shar.</content>
+  <content contentuid="hf4583fb6g01eeg2067ge8adgd3191249ce03" version="1">Sole Survivor</content>
+  <content contentuid="h49cdda93g2adbgf2eege0a6gcfef16d99552" version="1">Discover the truth behind the numerous rats in the Gauntlet of Shar.</content>
+  <content contentuid="h05500d76gf2edg8c91g23d2g1f0385f408fa" version="1">Did My Homework</content>
+  <content contentuid="h1725813bge146gfeedgcc6cg692573881501" version="1">Recite Shar's dogma to the surgeon.</content>
+  <content contentuid="h9320af2cgcc39g8f6fg00afg4b7c21db4296" version="1">Those for Whom the Bell Tolled</content>
+  <content contentuid="ha5e4bfcag6550g9eeeg8045g517cf29b9476" version="1">Kill all of Balthazar's undead.</content>
+  <content contentuid="hfd1c27d2gd1fbg23c5ge080gf741b0147b24" version="1">No Rest for the Wicked</content>
+  <content contentuid="hbaa1840ag593eg0b9cgc4b9g4dbae6d7f08c" version="1">Assist He Who Was in his task.</content>
+  <content contentuid="h414e3760gd38fg246cgd00fg359cd985aa9f" version="1">Let Sleeping Dogs Lie</content>
+  <content contentuid="h14e69af6gbf3agd5fcgb9a0ge29dcdd4216f" version="1">Prevent He Who Was from completing his task.</content>
+  <content contentuid="h7c0c6239gde48gbb87gc8a2gfd396afdf270" version="1">Tragic Love</content>
+  <content contentuid="h6d71df94g6e62gdb2fg17aag919b6937c38f" version="1">Witness Yonas' funeral.</content>
+  <content contentuid="hd7e0d09dga77bg00e6g4269g9af543d385fb" version="1">A Piece of Three</content>
+  <content contentuid="h470682b1g1960gd3deg55efg8a3abdbe65b3" version="1">Piece together Ketheric's allegiances.</content>
+  <content contentuid="h9f7ea932ge061gd544g4372gd051e112be72" version="1">Blessed's Final Rest</content>
+  <content contentuid="hcf0aa972g902fgd397g91c5g98ff111acec7" version="1">Find the aasimar's journal.</content>
+  <content contentuid="had8aa98dg4d75g2eb7ga80bgd81b40fa3d3e" version="1">Cerimonia Alārum</content>
+  <content contentuid="h22819d49g63eege99eg1df8g48b48290b957" version="1">Release Nightsong.</content>
+  <content contentuid="hd044f7cag6ae4gb6a7g3976gb33cf5786a38" version="1">Cerimonia Compedum</content>
+  <content contentuid="h1a445ce8gf855g58c5gd3a0g14abaedd2ddf" version="1">Execute the ritual to bring Nightsong to Ketheric yourself.</content>
+  <content contentuid="h0f978287g3c4fg6af1g5859gc9ef971100a2" version="1">Trickster Hedonist</content>
+  <content contentuid="h6a06fcb8g3179gdd56g2f67g8fc2bd21ed3d" version="1">Act 2</content>
+  <content contentuid="ha2505e08gfdd7g2d94gbff9g9bdf42e57f61" version="1">Little White Lies</content>
+  <content contentuid="hf1203f9ag49f6g5936g2b01ge70c3849d8e5" version="1">Lie to Arabella about the fate of her parents.</content>
+  <content contentuid="h93db5927gbacfg1fbbg1a83gbc07776cf89b" version="1">Not My First Time</content>
+  <content contentuid="h10802d47g40bag2d90gd7aeg6cd772fa49b5" version="1">Resist the truth serum when talking to Jaheira.</content>
+  <content contentuid="h8a22cdffgc7e4g8445g3268g62a3c9c83aec" version="1">Shuffling the Board</content>
+  <content contentuid="h2fe61b12g0de5gce32g759cg189df2a47453" version="1">Rig the game of lanceboard.</content>
+  <content contentuid="h1f21a8dbg0b03g4d44g72c0g9b44604b14c9" version="1">The Devil's in the Details</content>
+  <content contentuid="h397c1fb3g4f13gfe39g5abeg42f088c8f215" version="1">Expose a half-truth in the orthon's contract with Raphael.</content>
+  <content contentuid="h4737e92dgd2e6gcbf5g5728g2094f4e114c4" version="1">Morally Grey</content>
+  <content contentuid="hf36ed171gd92cgdf5aga987gbfbcd6afb268" version="1">Betray the trust of Moonrise or Last Light.</content>
+  <content contentuid="h63a2d1b1g5d8fgf560g996egdfeddbbfd635" version="1">Not to Worry, I Have a Permit</content>
+  <content contentuid="h04e39c4fg74a3gc5a0gf086g2635226fa93c" version="1">Evade repercussions when speaking to the Moonrise prisoners.</content>
+  <content contentuid="h2d945d5fg3292g02fegf917gc0d6d037232b" version="1">Tadpole Solidarity</content>
+  <content contentuid="ha101f711g070bgc22dg11c5gfb4bef04a9bf" version="1">Go along with Marcus' plan.</content>
+  <content contentuid="h85384e1fg328fgc3ccgf388g4da06c3cede4" version="1">Always Trust a Dishonest Person</content>
+  <content contentuid="hb99a7b25gdc65g64aag5cc0g7688e28ffde0" version="1">Expose Marcus to the Harpers.</content>
+  <content contentuid="h5072957egff49ga3ccg817fg621c7427af83" version="1">Know thy Clientele</content>
+  <content contentuid="h67e5303cg0e6fge04egcb0ag989e777fae12" version="1">Instigate Z'rell into showing off her gifts from the Absolute.</content>
+  <content contentuid="h9c95b903g87ecg0a34gcffagd795f3ce433e" version="1">Clear Conscience</content>
+  <content contentuid="h228f2c96gddf8g9cd6g6971ge6bd9c21b7d9" version="1">Successfully lie to Z'rell about the fate of the goblins.</content>
+  <content contentuid="h3d00324eg7a64g57f1g14ffgb9144f5d8468" version="1">Pied Piper</content>
+  <content contentuid="h49a89ff1gc8a3g3804g3165gcf52c12b65f7" version="1">Successfully influence the gnolls, either to break free or continue being subservient.</content>
+  <content contentuid="hf991b623g6d1fg0faeg8169g98b01c234633" version="1">Tricks of the Trade</content>
+  <content contentuid="h81e41cf4g8d82g730ag9ed7gd840a22c27c9" version="1">Successfully pretend to drink from the steins of ale.</content>
+  <content contentuid="he9d63021gc40fg141agbfe7gff29dd135c48" version="1">Takes One to Know One</content>
+  <content contentuid="he6769d1dg2d37ge908g10f1geea343334908" version="1">Expose the true form of the toll collector by removing all her gold armour.</content>
+  <content contentuid="h02b421bcg64ceg8ed5g458cg0720983f22c2" version="1">Legend of Baldur's Gate</content>
+  <content contentuid="hc1cb27ceg85a1gc829g56bdg31c5bcc9a006" version="1">Act 2</content>
+  <content contentuid="h270277ecg0005gc050gb09fg52c8bd211d51" version="1">It Came From Shadows</content>
+  <content contentuid="h6458fd0cge77ag2d4eg9e45g7b7ebb0724f2" version="1">Discover the source of the shadow curse.</content>
+  <content contentuid="h0b45fc97gb561gfd1ag8080g5befb511c931" version="1">Strings of Fate</content>
+  <content contentuid="hb3b428b2g71feg3dbag9643g5dc713f209b0" version="1">Bring Art his lute.</content>
+  <content contentuid="h09e5b786g9106g77ddg80dag363a1c2e8eae" version="1">A Tale of Two Souls</content>
+  <content contentuid="haf6099a5ga0c8g73d9g4d05g882b1aaedb69" version="1">Complete the saga of Art, Halsin, and the spirit of the land.</content>
+  <content contentuid="haea8a7a4g8980g4149g6fdeg12535d198826" version="1">A Story You Won't Believe</content>
+  <content contentuid="h3d808f34gc511g6f85g1715g8d226e1421b1" version="1">Pass all Performance checks when telling a tall tale to the brewer.</content>
+  <content contentuid="h74193191gc6bbg41edg856fg11d226ff4551" version="1">Catchy Tune</content>
+  <content contentuid="h86949893g80fbga20bg522cgb900c5898c33" version="1">Hear the orthon's contract.</content>
+  <content contentuid="h0214309bg46fagfdbbg117cg5ad2fa937a80" version="1">Living Legend</content>
+  <content contentuid="h20e19baag1b3fgaa52ge3d4gf2cfee95d0f3" version="1">Accept Jaheira's invitation to talk.</content>
+  <content contentuid="he9fb6fc5gf7edg079bgedf1gc3c64932a2e4" version="1">Memento Mori</content>
+  <content contentuid="ha72c90cbg2bbagb0b6g7c56g3d7eaa3c7358" version="1">Offer condolences to Harper Meygan.</content>
+  <content contentuid="h9dee6de3g42f7g6652g12a6g938bf9f5b36a" version="1">Tales of Yore</content>
+  <content contentuid="hd9dd9b39g8b67gc2b8gb3d4gd2a2bb4f1836" version="1">Piece the scriptures together correctly and reveal the secret in the town square.</content>
+  <content contentuid="hbf3fb9dfg1634gc1dfg236fg83bb33497596" version="1">Town of Shadows</content>
+  <content contentuid="h8b674d3agba0cg3db6ge1ffg82c6426ce929" version="1">Find out the fate of each of the major characters in the town: the brewer, the surgeon, the toll collector, and the mason.</content>
+  <content contentuid="h39f880c8g7c73gc385g5ac9g50c7760b0538" version="1">A Different Kind of Muse</content>
+  <content contentuid="hc4f5564cg375cg05b0g46c8ge4b677a9b93d" version="1">Connect to the strange consciousness in Moonrise.</content>
+  <content contentuid="h2a7e36b7gacd8g2dd5gc682gf5f8e50a2924" version="1">Danse Macabre</content>
+  <content contentuid="h3d8eb30ag60e5g59a8gc0b2g057e11a8c451" version="1">Make the gnolls stay under the influence of their master.</content>
+  <content contentuid="hb732f995g4062gcfbage1c9geb20a705889a" version="1">Plucking the Lyre's Web</content>
+  <content contentuid="h77844235g9a68g937fg8d9bga44aeb7fbabb" version="1">Play the Spider's Lyre to attract the drider.</content>
+  <content contentuid="h35eaceaeg2abdg4004g1b16g66b64a2a9222" version="1">Eclipse of the Heart</content>
+  <content contentuid="h9846b6e6g6799g94a9gf3e2gcfd4610886b4" version="1">Recount Ketheric's past to him, shaking his resolve.</content>
+  <content contentuid="h1d09309agb139g1c70ga70dg718d2bedcfe8" version="1">Blade of Frontiers</content>
+  <content contentuid="h281171b5g1d24gb31cga52eg93fa9f9e6e2f" version="1">Act 2</content>
+  <content contentuid="h2d9b8867gfd2dgd33fgec73ga4cca2389796" version="1">Not Another Soul</content>
+  <content contentuid="hb708354ag4414gadcdg8079g3971f1f0f247" version="1">Keep all Harpers alive during the ambush with the Shadows.</content>
+  <content contentuid="hf006b3ddg20c8g2e46g00f9g96107a8e2dbe" version="1">Saving the Prodigious</content>
+  <content contentuid="hb765f37fgb0c3g1895g263fg95975fb374f3" version="1">Save Rolan from the Shadow-Cursed Lands.</content>
+  <content contentuid="hdbfb5e92g281dgb794g1835g84a91cf1c092" version="1">A Smile Better Suits...</content>
+  <content contentuid="hbd2071c6g9f2bgfb81g1f84g76b33991a6d6" version="1">Offer a hopeful response to Alfira's inquiry.</content>
+  <content contentuid="he07533edg3aa0g50d2gf701gffe1d002274b" version="1">From One Hero to Another</content>
+  <content contentuid="h5c8d3c40gf063g2341g76degb3ad904c69ca" version="1">Meet Jaheira and stay in her good books.</content>
+  <content contentuid="h7693a834gbfcdg725dgd7d5g3950e6cfdb06" version="1">Meeting of Fates</content>
+  <content contentuid="h59f8d3eegbb24ga0d0gc9c4g432f78898b89" version="1">Side with either Isobel or Marcus during the confrontation in Last Light.</content>
+  <content contentuid="h5d09565fg5796g5772g2f1aga8d658ec3355" version="1">Helping the Little Guy</content>
+  <content contentuid="hb3854223g1a75g5cdeg4091gec636ab7cf09" version="1">Help Mol win the game of lanceboard.</content>
+  <content contentuid="h5954c3ceg387bg6de7g47ecg36549a04aa4f" version="1">Greatness Thrust Upon Them</content>
+  <content contentuid="h9e4f7c24g39edga876gaf71gb114ec7d2e88" version="1">Find, save, and bring Arabella to your camp.</content>
+  <content contentuid="heb3884d8g211dg706dg4651g29b5f525ce30" version="1">Power Corrupts</content>
+  <content contentuid="haa86c802gfa27g8c9dg867dge2d740ad4997" version="1">Defeat a major figure in the corrupted town.</content>
+  <content contentuid="h022d0ac3gb9ecgadbegcd33g93f300682251" version="1">Power Corrupts... Absolutely</content>
+  <content contentuid="h3fd8c52cge8c3g3bfdg6309g6fb74f011dec" version="1">Defeat all of the major figures in the corrupted town.</content>
+  <content contentuid="h74640c8cg449dg78e8g365egfa38a3b7360e" version="1">Breakout!</content>
+  <content contentuid="h46b75dc5g66f5ga271gef69g6ccf615b8340" version="1">Break out and save all of the Moonrise prisoners.</content>
+  <content contentuid="hca9f1289g4e91g5f9dg6496gefd5201df62e" version="1">No Strings to Hold Them Back</content>
+  <content contentuid="hd2a13ea0g7057g6608ga11ega1f3e23dee46" version="1">Release the gnolls from their enslavement.</content>
+  <content contentuid="h94939767gb639gdce7g04d0gd41fb1fdf07c" version="1">Uncommon Recognition</content>
+  <content contentuid="he75f26bcg3283ga138g134cg88c3bde1b34d" version="1">Relate your feats to the bugbear merchant.</content>
+  <content contentuid="h710d6807gd922g20d5gb51cg0746c40b9b6b" version="1">Damsel No More</content>
+  <content contentuid="hf40fbc1eg5a93g1378g91d9g6662a3857d19" version="1">Free Nightsong.</content>
+  <content contentuid="hd84a9406g979cg8681gd562g29184b42ef32" version="1">Grove Tender</content>
+  <content contentuid="hb02376b2g6f7cg90a4g2b14g8ad80a8c5791" version="1">Act 2</content>
+  <content contentuid="h6608eb82g60a4g4cf4gcf4ag79395aa6048d" version="1">Trust and a Little Pixie Dust</content>
+  <content contentuid="h4de7b5c4g16cegcfe7g143egf6c7c8ab644e" version="1">Investigate the Moonlantern and find its power source.</content>
+  <content contentuid="hd2c7b707g0419g696cge5b0g96a225a5aa6f" version="1">Dark Machinations</content>
+  <content contentuid="h07583b3bgdc3dg983fg6834g62e97a2f6e8f" version="1">Fill all sockets with Sharran gems in the Gauntlet of Shar.</content>
+  <content contentuid="hdfa5b10fg9b44gf8f2gbd3eg428a145dc657" version="1">Tragedy in Masonry</content>
+  <content contentuid="hf647dc32gaad3g422egee47ga35f79c75f27" version="1">Discover the fate of the mason.</content>
+  <content contentuid="h607c5754g238bgd5d0gb362ge9ccf33c42f7" version="1">Inhumane Trials</content>
+  <content contentuid="h68ca88b0g564fg84adgdc33g075a901728a8" version="1">Witness a horrid operation in the cursed house of healing.</content>
+  <content contentuid="hf5335007gdf9cg0d9cg2b71ga608f0722bf0" version="1">Special Iced Arsenic... Brew?</content>
+  <content contentuid="h4b95d410gfc9bg5f86gb13eg1c2ea9796f87" version="1">Craft some Brewed-Up Bellyglummer.</content>
+  <content contentuid="hd3024b71g2f51g7250gda66g2cbad1acc12b" version="1">Safety-Averse Quaffing </content>
+  <content contentuid="h5b8c9d6dg7cefg4cc2g0fa7gad994a058db3" version="1">Drink at least 1 of the brewer's steins.</content>
+  <content contentuid="habec07a9g5ee1ga932g2e82g68f0385c25c7" version="1">Confiscated Works</content>
+  <content contentuid="hfce4cda7g966dga614g0ccbg18e52f159ef1" version="1">Acquire a magical item from the toll collector's confiscation chest.</content>
+  <content contentuid="ha6f61f36g3869g55f1gebf0gc4ca8e0290f8" version="1">Simple Tools, Great Works</content>
+  <content contentuid="h22068d09g6a7dg8eabg9936gddb7e8069c9d" version="1">Return Wulbren's tools to him.</content>
+  <content contentuid="ha12bd914g588fg7432g8637g9e49e4c8a67b" version="1">Ruthless Craftsmanship</content>
+  <content contentuid="h9bdec3acg2d47gf24eg3ee4g43f4048e4c60" version="1">Take Shar's ceremonial dagger.</content>
+  <content contentuid="hd576b093g246cg3076g87e2g832d83ef4712" version="1">Made of Shadows</content>
+  <content contentuid="h70a7feeegc402gb62agc993g00dd6dd9f4c7" version="1">Unlock and take the Spear of Rampant Night.</content>
+  <content contentuid="hd63d1a60gf8d5gbbe7gd647gc783af987bdf" version="1">In the Palm of My Hand</content>
+  <content contentuid="h964a03bag2187g6c60gb295g632d16a426a2" version="1">Acquire the Brilliant Retort from Barcus.</content>
+  <content contentuid="hed9477ddgf701g4a08gc7a5g89f23e2d36b2" version="1">Hellish Armaments</content>
+  <content contentuid="hd7982da7g67b7ga242ge134gc10b0bc51602" version="1">Obtain a piece of infernal equipment from Dammon.</content>
+  <content contentuid="h62f4100dge2dege17bg9482g730bc2fcaff8" version="1">Mating Season</content>
+  <content contentuid="h701b97bag285agb32bg1d07g37ea8061d09e" version="1">Discover the source of the displacer beast's infatuation.</content>
+  <content contentuid="ha89a762bgdf72g1143g0f13geced537426d1" version="1">Blood, Sweat, and the Other Thing</content>
+  <content contentuid="h40451211g6f06g4f7egb74agd17504c6ef95" version="1">Give your blood to Araj Oblodra.</content>
+  <content contentuid="hcb1c2f13ga8c7gda82gfb93g189183d94b14" version="1">Blood War Veteran</content>
+  <content contentuid="h67fbb5b7g0dd8g0d85g7c98gc45de5ed2b68" version="1">Act 2</content>
+  <content contentuid="h77ce2812g0c76gc928gee9ag1a5da7f00726" version="1">Child's Play</content>
+  <content contentuid="h894bd7b7g184eg21b7g6e3cge8e4a5de6a0d" version="1">Beat Oliver at hide and seek without alerting the shadow creatures.</content>
+  <content contentuid="h8f23666bg4180g8ba6g238cge8e2d00b858b" version="1">Grove Keeper's Keeper</content>
+  <content contentuid="h59f84562g56e7gb9a9g020bgbe0b7e59a84a" version="1">Protect Halsin's portal while he saves the spirit of the land.</content>
+  <content contentuid="h5bba99c4gea0dg879ag65f5geecacd907885" version="1">I Ain't Afraid of No Shadows</content>
+  <content contentuid="hec6bb113g7fdcgafadg4c7cg417fbc38621c" version="1">Traverse through the Shadow-Cursed Lands to Last Light and Moonrise without using a Moonlantern.</content>
+  <content contentuid="h4d734739gb1c6ge035g4e78g9d1cc0acccc5" version="1">Path Least Followed</content>
+  <content contentuid="h9e05bf54g53c2gb232g8ac9g036afff72fda" version="1">Complete the Gauntlet of Shar without going to Last Light or Moonrise.</content>
+  <content contentuid="h858386e3ga459g5ccfg801cg832268d0076d" version="1">Bumps in the Dark</content>
+  <content contentuid="hcd9d9760gd712gdc3cg413bgc83e8c084d3e" version="1">Conquer three combat encounters in the Shadow-Cursed Lands.</content>
+  <content contentuid="h36f07d86gc4c6gf7a6g84c5g0e220c428526" version="1">No Cursed Stone Left Unturned</content>
+  <content contentuid="h42af2ae3g2b9cg2bf7gfad7gc88a817fa221" version="1">Explore each key area of the Shadow-Cursed Lands.</content>
+  <content contentuid="hf05557f3g1661gef12g44a2g75b49e93c5df" version="1">Mutual Respect</content>
+  <content contentuid="ha814c23bg85feg3ba3gbfeegc066e9f6945c" version="1">Meet the tadpole-hunting cat.</content>
+  <content contentuid="hf9abf522g2958g0df2g3c7ag9e2b63079286" version="1">Embracing the Environment</content>
+  <content contentuid="hd8e83153g3868g11eag8758gacd164bc791c" version="1">Survive two rounds of the shadow curse.</content>
+  <content contentuid="he96b1a2cg3305gf717g6240gdd9d1e87cf09" version="1">Tools of the Trade</content>
+  <content contentuid="h8eb9ec5bgd2b4g7353gb7eag56a7efb23a2a" version="1">Obtain the orthon's crossbow.</content>
+  <content contentuid="h1320a251g6ac2g1663g7050g8f45f98d3257" version="1">Sleeping in the Dark</content>
+  <content contentuid="ha5e3f9f7g1284g60e4gaa8bg5b02113c31b5" version="1">Take a full Long Rest in the Shadow-Cursed Lands.</content>
+  <content contentuid="h666c54edgb31agfe01g8a24g0d0fd7aa880e" version="1">Always a Step Ahead of the Darkness</content>
+  <content contentuid="h601a43ccg6077g8418gd595g14d747714792" version="1">Reach Nightsong without having been affected by the shadow curse.</content>
+  <content contentuid="h765553b8ge579gfb2fg6222g4805cc99edb4" version="1">Never Liked Stairs</content>
+  <content contentuid="hfd645ebeg1260g7bd1g8cc9g3becf1b8d3ac" version="1">Enter a restricted area in Moonrise Towers from the outside.</content>
+  <content contentuid="hd5dec480g1843gdfd9gcc29g17380c48d1d6" version="1">I've Had Worse</content>
+  <content contentuid="hdba2cf5cg36c3ga28eg37ccgf04d33018f57" version="1">Successfully drink and resist the negative effects of the brewer's concoction.</content>
+  <content contentuid="h65d8bc9dgdc7fgeeb2g9608gf08a649031e2" version="1">Delving into the Deep</content>
+  <content contentuid="h633238bbg9b98gf730g71d9g81661994ce8c" version="1">Enter the oubliette... for better or for worse.</content>
+  <content contentuid="h823698f8g7393g123egb806g92d9bb38e88c" version="1">From Head to Toe</content>
+  <content contentuid="h698cc580g2bbbg1f44gec42g2a7fd15b3ef0" version="1">Explore all sections of the mind flayer colony.</content>
+  <content contentuid="h528a109ag7136gd77cgfd89g0800b94bb8fd" version="1">Underdark Exile</content>
+  <content contentuid="h8cfd6fecg5e77g3a33g6d4ag8ee2d22ee8c2" version="1">Act 2</content>
+  <content contentuid="h87f65874geb4bg25b2g027bg1f88c293bb57" version="1">Patrician of the Grove</content>
+  <content contentuid="hf2e4e36ag3972g10cegb197g9ed10009d7af" version="1">Recruit Halsin.</content>
+  <content contentuid="hebe0a2edg9cd7gd3b7g3590g33e9609f5ff1" version="1">Nobleborn as Below, so Above</content>
+  <content contentuid="hf498b7cbgb53dg2437g6210g64b6c1c00e4e" version="1">Recruit Minthara.</content>
+  <content contentuid="hf0446592g526dg9e4ega3a5g33a6daa737b8" version="1">Meat Shield</content>
+  <content contentuid="h1605f417gf59ag6bedg8759gb85c823c926f" version="1">Obtain Balthazar's bell and summon his flesh golem.</content>
+  <content contentuid="ha74c25c2gcb67g5f20gb35fgeeb5af76f5e9" version="1">Ketheric's Loss</content>
+  <content contentuid="hf27c40bbg9d46gaafag94e9g1b0a63985a61" version="1">Learn Ketheric's past.</content>
+  <content contentuid="h491c7289g5b7bg0235g2a91g8adae916ae9b" version="1">Can't Bribe 'Em All</content>
+  <content contentuid="h0cfb5b32gb915g027cga601gd66a7da5ee39" version="1">Bribe Moonrise's warden.</content>
+  <content contentuid="h002ee3e9g7b49g14fcga63cg7eb91762e025" version="1">A Velvet Glove</content>
+  <content contentuid="he7f6f3b7ge742gcbaegb23bgfb9e5f162ca7" version="1">Spare the goblins.</content>
+  <content contentuid="hf264b69cg0e77g157bgd284g60b671bed6de" version="1">An Iron Fist</content>
+  <content contentuid="h15fc4ca4gb5c4g7270gd42eg85025d098caf" version="1">Execute the goblins.</content>
+  <content contentuid="h8eac69d5gbb48g8ad0g9e6eg116a0448a1f0" version="1">Top of the Ladder</content>
+  <content contentuid="h6757a298g2452gd35fgcb1ege5f170e03ede" version="1">Meet Ketheric at the top of Moonrise.</content>
+  <content contentuid="he4bd4bf4g07efgcba8gcfccg1d3d6d27ebc0" version="1">Favour for a Favour</content>
+  <content contentuid="h285af43egb765g725ag381cg6db81a3099ed" version="1">Wake Art for Counsellor Florrick and the Flaming Fist.</content>
+  <content contentuid="h0094ac02g28c2gc2d5g8aa8g775b6e45b848" version="1">Recognised by Shadows</content>
+  <content contentuid="h386e66afg5267g855eg01a6g745d279cd9f6" version="1">Pass all of Shar's trials.</content>
+  <content contentuid="hd56f48b0gc192g082eg34e2g8b63cad22cff" version="1">Taxes? Never Heard of 'Em</content>
+  <content contentuid="hd40ff27dga4begb885gb21bg6b76c58af815" version="1">Don't give any gold to the toll collector.</content>
+  <content contentuid="h485618dbg39e8g44f5g90a9g5dce76220237" version="1">Noble Feline</content>
+  <content contentuid="h064ef9e3g893dge74cgf7dcg9681c757e01b" version="1">Speak with the lordly cat at Last Light.</content>
+  <content contentuid="hce33626cg7a9cgf76bga411g0b9d608b5cd8" version="1">Odd Entourage</content>
+  <content contentuid="h22e9de91g064cga941g248dga97597e05609" version="1">Complete the drider escort to Moonrise.</content>
+  <content contentuid="he72dfe8fg1a10gb5b0gdb18g8f4781005a49" version="1">Waterdavian Magus</content>
+  <content contentuid="h640ee05ag4986g447agb6e3g2bac93842699" version="1">Act 2</content>
+  <content contentuid="h15eb863eg5e4egf656ga638gf2de0a4ef54d" version="1">Corrupted Beyond Recognition</content>
+  <content contentuid="h1e7716b0g7b29gdfdageb83g8a86d0dcb1be" version="1">Find and read the dead druid's journal about how the shadow curse came to be.</content>
+  <content contentuid="h4bb4d4a0ge3d1g1c31g825fg848f9884bce9" version="1">Snuffed Spark</content>
+  <content contentuid="h8d550e51g9a8cgd974ge40dgdfdd224de574" version="1">Find the dead aasimar's journal.</content>
+  <content contentuid="h8b458ffage2cdg29f0g1096gabb84ffb3092" version="1">Thorm Family Secrets</content>
+  <content contentuid="hbcc3baf8g02feg9e77ga1dfgf9039478e8e1" version="1">Discover the fate of Ketheric's family members.</content>
+  <content contentuid="hf347d6b3gb1c1gd7f3gf997g63d78c7bd2c9" version="1">To Have Loved and Lost</content>
+  <content contentuid="h5be049ccg4d57gc1efg2388gec68fea6fc20" version="1">Discover the source of Ketheric's shame.</content>
+  <content contentuid="hba6adb17gca9dgea21g902eg8b3ef4faf6cb" version="1">Emblem of the Moonmaiden</content>
+  <content contentuid="ha78ef055ge1bag115fgb83egfbd832bfdf7d" version="1">Discover the truth about Nightsong.</content>
+  <content contentuid="ha0b08829g2b7ag0cadg7977gd6c90377aaf5" version="1">Tenets of Loss</content>
+  <content contentuid="h6763b3c3g76a6g7a86g70fdg87070472667e" version="1">Open the way into the Sharran Sanctuary.</content>
+  <content contentuid="h41c56015gabf7g9d13g521dga177b571c9a8" version="1">Partaking in Local Customs</content>
+  <content contentuid="h10bbf083gb85dga37bgd8c2ged409058551b" version="1">Perform the ritual in the Sharran Sanctuary.</content>
+  <content contentuid="h8971454dg2ce4g6e1ag2984g2c54fb9f2c06" version="1">Rat King</content>
+  <content contentuid="hf669f810g6590g2fcdg079fg34c0b3e8d24a" version="1">Discover the truth behind the numerous rats in the Gauntlet of Shar.</content>
+  <content contentuid="h8c3bcd2fg3beag4e78gb54eg5a52874cb481" version="1">History Never Forgets</content>
+  <content contentuid="hf80942c4geda8g2d46gc2ecge9bc8c6f55de" version="1">Open the way into the Gauntlet of Shar.</content>
+  <content contentuid="h7b02a99dg752fgb55fg3e9dg41ba77ab5c1a" version="1">Theskan Tactician</content>
+  <content contentuid="h2cd76762g95f3gce9cgd3bdgd7b9afeace32" version="1">Help Mol win the game of lanceboard.</content>
+  <content contentuid="h41d59c10g58dcg5fdbg2053g4594cb7940aa" version="1">Waking the Sleeper</content>
+  <content contentuid="hc6fbf62cg463cg9868g8e1dg6eb483d16b03" version="1">Wake Art from his catatonic slumber.</content>
+  <content contentuid="h15096b48ga0e6ge442gff9eg9e1e8fd1bf88" version="1">Secrets of the Necromancer</content>
+  <content contentuid="h85784b06ge8f7g21bfge28dg6e4d60bd04ad" version="1">Solve Balthazar's secret study puzzle.</content>
+  <content contentuid="h272244f9g6f53ge3c6g4dedgfe287d7911fe" version="1">A Little Too Familiar with the Grotesque...</content>
+  <content contentuid="h38792a38g54b5gbb3dg86dag0d946b84734e" version="1">Solve Balthazar's secret study puzzle without making a mistake.</content>
+  <content contentuid="hab18b556g28b8geb70g222dg84c364891813" version="1">Hippocratic No More</content>
+  <content contentuid="h8f312dc7g1170g997fg84bagb88500178e31" version="1">Find the surgeon's research notes.</content>
+  <content contentuid="h98f44f74g69bagffa5g9ff2g11192f7c0f9e" version="1">They're in the Walls!</content>
+  <content contentuid="h2beb303egf61agc697g8ba0gdf3ed398b146" version="1">Discover what the 'meat sound' is.</content>
+  <content contentuid="hf951d26dg45ddg4fe2g9b2fg3c1eda36b919" version="1">Brain Blast!</content>
+  <content contentuid="ha84e04efg47cbgf4f2ga93bg068f351c9eae" version="1">Successfully complete the mind puzzle in the mind flayer colony.</content>
+  <content contentuid="hff5de281g038fg406bg4393gd5f94c15f2c0" version="1">Astral Zealot</content>
+  <content contentuid="hf3df601egdca1g6b34g8506g365504f5dcc9" version="1">Act 2</content>
+  <content contentuid="he89cab96ga4e4gbc45g8071ge01e4a4a150d" version="1">Familicide</content>
+  <content contentuid="h49bde3a7g9ffcgbd3dg5b63g14abe36dab0d" version="1">Kill all members of the Thorm family.</content>
+  <content contentuid="hc625fc6eged31g2417g98b2g6df616239552" version="1">The Best Offence is Virtually Nonsense</content>
+  <content contentuid="h2783c6c8gb395g8477gda75gd70275dcdbe9" version="1">Defeat a member of the Thorm family without drawing steel.</content>
+  <content contentuid="hf8b099c4g0f45g23e6g9ff5g92abc381e355" version="1">An Apple a Day Keeps the Scalpel Away</content>
+  <content contentuid="hd7afe2e8g0b51g3c02g4557ge4456129ae78" version="1">Defeat the Surgeon without being operated upon.</content>
+  <content contentuid="h1ab00ebfg1c0cg5415g0ac9g2edd205d00c4" version="1">Shield of the Moon</content>
+  <content contentuid="h69617ae4gd4a0gc41bg8cb0g9d69180334c1" version="1">Obtain Selûne's blessing from Isobel.</content>
+  <content contentuid="hf78071c6g1c0dg56d7g1109g7a873ad9e5bd" version="1">Know Thine Enemy</content>
+  <content contentuid="h89133546gc4dfg6f7bg4ae7gc4ef4ba48b33" version="1">Defeat yourself in the Gauntlet of Shar's mirror trial.</content>
+  <content contentuid="hed4f8e11gbfc9g2c93g84e4g452bf3c439e5" version="1">The Best Offence is Virtually Nonsense</content>
+  <content contentuid="h9ecd489dgae97g9a23g5537g8ae155aea710" version="1">Defeat a member of the Thorm family without drawing steel.</content>
+  <content contentuid="h3d468b3eg5422g06f7g1d75gd7426d2c7b38" version="1">Masterful Execution</content>
+  <content contentuid="h7eccf7dfg494agb9ecg39d8gd4908507fb30" version="1">Kill any of the bosses in and around the Shadow-Cursed Lands in a single round of combat.</content>
+  <content contentuid="h341e8861gae16g3c3fg5067gd66de1343280" version="1">Return to Sender</content>
+  <content contentuid="ha9e5b84bgadc9gefa1g2804g757a6f676354" version="1">Kill the orthon, returning him to Raphael.</content>
+  <content contentuid="hddaa6166g1f7eg09d3g6646g849d7f2246e6" version="1">Absolute Devastation</content>
+  <content contentuid="h242ad09dg8366gbe85g8425g19999c4e4ec7" version="1">Destroy Last Light.</content>
+  <content contentuid="h5c3d57f5g9cedg29aag2cb0gb09c15dc042f" version="1">Devastation of the Absolute</content>
+  <content contentuid="he0699588g3146g01efg07f4g62aefad848be" version="1">Complete the assault on Moonrise.</content>
+  <content contentuid="hf1c93f1egb28fg4d67g1f65g3e643988772a" version="1">A Bone To Pick</content>
+  <content contentuid="hbdfa03cbg65f6g762ag887fg5026503032e2" version="1">Overcome the skeletons in Moonrise prison during the assault.</content>
+  <content contentuid="h118547fdg77c8gddddg253fgfb043f9e1573" version="1">Notched Armour</content>
+  <content contentuid="hbadb3557g6cc6g9685g110bg620341f68e59" version="1">Show off your prowess to the bugbear merchant.</content>
+  <content contentuid="h6c705371g0cadga10bg5514g52f4536f181e" version="1">War is No Place for a Child</content>
+  <content contentuid="h8823a83bgbeedg2718gccd4g4b9636d218bc" version="1">Lie to Arabella about her parents' fate.</content>
+  <content contentuid="h118c836bg2ccbgc6d9g29b5g9b61ae49a1f2" version="1">Realities of War</content>
+  <content contentuid="hbcdfb9aag709fg393ag7f35gd812e7f874e9" version="1">Tell Arabella what happened to her parents.</content>
+  <content contentuid="h52ef1c8ega2e7gecbcgf1b8g4a4a6d8f8afd" version="1">Centennial Rivalries</content>
+  <content contentuid="hde0f4bf7gc629g758dg7e6eg0ee1aaea0849" version="1">Complete the Harper ambush.</content>
+  <content contentuid="hb7483b78ga634g11a2g3f6eg91f4c6c1a99d" version="1">Soldier of Faith</content>
+  <content contentuid="h9dcbdb4agbd6agc32ag095eg27252c0e25b5" version="1">Save and release Nightsong.</content>
+  <content contentuid="h8ac5723eg9a14g3135gf6f4g206f6372943a" version="1">Soldier of Fortune</content>
+  <content contentuid="h3ceb325cgdd0age0a2gf0acg847bae6bccc7" version="1">Give Nightsong to Ketheric.</content>
+  <content contentuid="h72b5a411ga432g152fg013fg2b339488401d" version="1">World-Wise Heroine</content>
+  <content contentuid="h880bf244g828dg94f7g0889g4201e86f01f9" version="1">Act 2</content>
+  <content contentuid="he61667dfg7070gfb74g90b7g13c0a9684741" version="2">Casual Camaraderie</content>
+  <content contentuid="h645b997cg53ccg6260g0574g81d274fc5d83" version="1">Help Mol win the game of lanceboard.</content>
+  <content contentuid="h5283be67g868ag0e27g5881g606fd976ab93" version="1">Strength in Cowardice</content>
+  <content contentuid="h3b1fa9c7g7458gc338g9febg06480995cbc3" version="1">Convince the orthon to spare you, for now... </content>
+  <content contentuid="h64c0bddcged53gf18dg7b35g8c080395cc2c" version="1">Rebellious Phase</content>
+  <content contentuid="h9b39cb42g3b5agfbe0g76acgfd39470e5d1e" version="1">Betray Balthazar.</content>
+  <content contentuid="h15d56a45g0afeg15fdg4d98g0ba53a211700" version="1">Good Deed of the Day</content>
+  <content contentuid="hb50c3899g4c4cg962egc205g65c753b7c6cf" version="1">Free Nightsong.</content>
+  <content contentuid="h80e3c12bg6b35g1522g7bedgfce9f5d34365" version="1">Bugging Out</content>
+  <content contentuid="h69367808g8b61gcdd6g75a6g3724e809ae5d" version="1">Help Wulbren escape Moonrise.</content>
+  <content contentuid="h3fa46d8bg6642g85a7g16a5gfd43af6e1b68" version="1">Will Not Be Forgotten</content>
+  <content contentuid="h5aebb576gd338gd63egbb8fg73377ed2fe6a" version="1">Escape the Oubliette.</content>
+  <content contentuid="hc6774ed1g4317g0c7bg2dc7gefa227daf8b2" version="1">Child at Heart</content>
+  <content contentuid="h31668058g59d4g709cg264bgabd64e763455" version="1">Play both games of hide and seek with Oliver.</content>
+  <content contentuid="hec711575g329ege604g87c3gf59eeaba9564" version="1">Wary of Strangers</content>
+  <content contentuid="ha8bc2219g8531g92cag81d2g263f37fa9515" version="1">Refuse to drink the suspicious drink.</content>
+  <content contentuid="h9a0a6b68g59f3g00d7g1822ge237e9ae5803" version="1">Twice Scorned, Twice Abandoned</content>
+  <content contentuid="hfab57c15g4f84g6b24gac09gf46f2d636995" version="1">Rescue Minthara from her captors.</content>
+  <content contentuid="h8771ab45gea59g87c8g620bgada3d3728a94" version="1">Newly Downtrodden</content>
+  <content contentuid="h0b193cf4gd55ag73f4g4c71gdc13323ae6ae" version="1">Spare the goblins from Ketheric's wrath.</content>
+  <content contentuid="h2522dc26g3b00g0857g4e8dgcc7e6361392d" version="1">No Peeking!</content>
+  <content contentuid="h7509e463g8ee2g4c75g276eg12f667ca0f39" version="1">Block out True Soul Z'rell from reading your true intentions.</content>
+  <content contentuid="h3daaaae4g37f3g4945gc31fgea471be6723f" version="1">Alley Cats</content>
+  <content contentuid="hdca1b1f8gcb07g6cabg7e8fg52693b669011" version="1">Meet both the lordly cat and the tadpole-hunting cat.</content>
+  <content contentuid="h3b266bb3g9293gac30g2f30g51d51124ee8f" version="1">Gone Feral</content>
+  <content contentuid="hbf22c2adg5281g4efcgea5cg08073fd03763" version="1">Free the mind-controlled gnolls from their master.</content>
+  <content contentuid="ha5e52da0g871ag6a5eg57f3g456f409110b8" version="1">Amateur Optician</content>
+  <content contentuid="h477113d8g5802g13eeg31fcg2f25793739fc" version="1">Find Mol's eyepatch.</content>
+  <content contentuid="h359f4eccgd856g9403g6702g40c232c3ef49" version="1">Cloistered Stray</content>
+  <content contentuid="h20d06372g69eegba75g1865g671536b5780b" version="1">Act 3</content>
+  <content contentuid="hf300d41cga532g524dga3bfge1ce7a7ce2c9" version="1">Carnal Rituals of Sharess</content>
+  <content contentuid="h3549c7e2gb72dg14c9g7da4g5f8d57f5c2ec" version="1">Take part in the... erm... negotiable affection provided in Sharess' Caress.</content>
+  <content contentuid="h51c1d441g9c72g3d75g9453g4db07f193bc6" version="1">Food for the Soul</content>
+  <content contentuid="he3e76da4gfe68g7487g3ca4ge7d1887ff922" version="1">Donate a Long Rest's worth of food to the donation chest.</content>
+  <content contentuid="ha48880f4gd22cg4c6fg6f19g41923ccfea4b" version="1">Needs of the Many</content>
+  <content contentuid="he8274e9cg633egd684g5bd9g676de2770285" version="1">Persuade the merchant to let the refugee squatters stay in his home.</content>
+  <content contentuid="h0763e95fgaf74gf9eag3a05g2e26eeb6e499" version="1">The Dismemberment of Dribbles</content>
+  <content contentuid="h923e3acbg48a5g12b8g90a8g79c08590087d" version="1">Find all the pieces of Dribbles' body and return them to Lucretious.</content>
+  <content contentuid="haad56e0egb820g03c0gb832g0ffae5c4d3d5" version="1">A Test of Faithfulness</content>
+  <content contentuid="h6774aca6g8bd5g2252gbd13g61fb02bc7916" version="1">Ask the Master of Love to test your bond.</content>
+  <content contentuid="h27a00b6cg310eg63f0g2bb6gd96ede92ff49" version="1">A Wounded Open Heart</content>
+  <content contentuid="h416fc30eg987egffb8g7484g25d2989714dc" version="1">Side with the close-minded priest.</content>
+  <content contentuid="h9fde5559gcf45g76afgfa3bgb5165f14517a" version="1">A Scorned Closed Heart</content>
+  <content contentuid="h3f592dfag0f3ag0d3dgae86g6f088143c3a1" version="1">Side with the open-minded priest.</content>
+  <content contentuid="hc5c6d08cgf5fege749g0945g421f12360ac1" version="1">Shaking Bane's Hand</content>
+  <content contentuid="h5dd72998g6bc1gce7eg7ee3gd7fe418a57de" version="1">Agree to an alliance with Gortash.</content>
+  <content contentuid="h27ca4c63g74c7gb721ga3edg5150adfff50e" version="1">Grinning with Bhaal</content>
+  <content contentuid="hd0322b42g3a11g2813g4bc8g8ac4b2f617a8" version="1">Agree to an alliance with Orin.</content>
+  <content contentuid="hb08b5684g218ag3f56g0149g90d789cdf376" version="1">Child Protection Agents</content>
+  <content contentuid="h0df3b284gfcb4g8704gbc40g3f04bae2580c" version="1">Find and rescue Lora's daughter, Vanra.</content>
+  <content contentuid="hb72bf350gd3bfg5628g780eg68b0cec50669" version="1">Ordinary Practises in Extraordinary Times</content>
+  <content contentuid="h581582ecg12b2gf8b4gd002gebe13c1dcd0c" version="1">Offer appropriate offerings to a deity in the Stormshore Tabernacle.</content>
+  <content contentuid="hf63ce1adg4606g47f3gb829g87865f06e101" version="1">Offerings to the Waves</content>
+  <content contentuid="he23ea244gfaaeg43e6ge1dag831f5f4ce5a7" version="1">Make an offering for the dead waveservant.</content>
+  <content contentuid="h7ab6e948g9404ga79egcccfgb2aaceacb870" version="1">Liturgy of Blood</content>
+  <content contentuid="ha2ea8dc5g63f0gc415gfc4bg55aa8a75a17f" version="1">Embrace Bhaal and complete the Murder Tribunal.</content>
+  <content contentuid="hced98fa8ge8b1g3a9ag2edcg41137f255982" version="1">Revulsion of Blood</content>
+  <content contentuid="ha8124a47g073ag747cg5c78g2e77efe66df6" version="1">Free Valeria during the Murder Tribunal.</content>
+  <content contentuid="h4d28c151g9982g844cgd1e5g25de81ddf6ce" version="1">Rites of Loss</content>
+  <content contentuid="h5099a835g9eaag3648g13a0gc65f448bc19f" version="1">Complete the Mapping of the Heart.</content>
+  <content contentuid="h0fffc721g60fdg5120gc99bgd0fd942c5995" version="1">Forgotten, Bloodied, Halls</content>
+  <content contentuid="h7ae91f55g3799g7f76g310bg6d72376d91f8" version="1">Discover the Temple of Bhaal.</content>
+  <content contentuid="h0423c203g3d53g41fcgc7b1g43c741c0925b" version="1">What Remains of the Dead</content>
+  <content contentuid="hbaa690dcg1934g5a79gc801gd5211e907ff8" version="1">Guide Nina to acceptance or prowess.</content>
+  <content contentuid="h4d5798b6ge3a4g0261g7a25g6097441d9cdd" version="1">True Exorcism</content>
+  <content contentuid="hf555b48fg94e2g584bg5896g1977a27a066d" version="1">Burn Kerri's portrait with the Torch of Revocation and banish Kerri from the Material Plane.</content>
+  <content contentuid="hc0c3797ag26aag9dc6g55e6g91a019e81c33" version="1">Trickster Hedonist</content>
+  <content contentuid="hce1098e6g35a9g22a5g33e4gaf05b7315d7f" version="1">Act 3</content>
+  <content contentuid="hbc72ebc9ga0f9gb78fg21b6gcd23592abda2" version="1">Cheating the Cheater</content>
+  <content contentuid="h7e4f66b9g15a7g4381g3761gf7ae03263588" version="1">Find the source of the genie's trick and take it.</content>
+  <content contentuid="hb3378c0age9c2gff5dgc5adg3c1f74ea3cad" version="1">Seams of Lavender and Thyme</content>
+  <content contentuid="h1a3373bfg16ebgf7ebg45b0g2c9e272919bd" version="1">Deceive your way into the circus.</content>
+  <content contentuid="hfcfcbaabg36cfg6803ga61eg5d3241eb8385" version="1">Stuffed Bears in the Closet</content>
+  <content contentuid="h566c30f3ge229gf924gf709g93e8161e53b7" version="1">Blackmail the merchant.</content>
+  <content contentuid="he4885a15g39afg7ecag0258g6e645c45fee5" version="1">Never Trust an Honest Person</content>
+  <content contentuid="h6b0fd493g8009g1f5bgd21agf0de0b4291ee" version="1">Lie to make your way into the big barn.</content>
+  <content contentuid="h44e9c2a1gb98fg75f2gf033g09b51eb5bb2b" version="1">Rock-Solid Alibi</content>
+  <content contentuid="h85e4d188gb2f2g7b19gbd6agcd8d68b8541e" version="1">Manage to convince the Flaming Fist to let you into Wyrm's Rock.</content>
+  <content contentuid="h52e9788ag8426gbc68g3472gd7e470df92ed" version="1">Nothing's Not for Sale</content>
+  <content contentuid="hc0e4343bg9944g0ecfgacedgc44573eed59a" version="1">Convince the Flaming Fist quartermaster to trade with you.</content>
+  <content contentuid="hb6242e1cgdf05gd8f1g8f1agf16e861fe32e" version="1">Not so Infallible After All</content>
+  <content contentuid="hce687f4cge290gaa40g3255g0afde9abd321" version="1">Evade being arrested by a Steel Watcher.</content>
+  <content contentuid="h4c40c3fcg3d22g06d9g0ebbg0f3f33e2dfa5" version="1">Friends in Low Places</content>
+  <content contentuid="hd92729e6g74d1g4b3eg059fg45835aced16d" version="1">Gain access to the Undercellar through Tusgront.</content>
+  <content contentuid="h9f9ce37bge44fgda59g9574g51234507ba47" version="1">Saving a Fellow Tale-Spinner</content>
+  <content contentuid="h39c6ab8bg7322g5078ge510g56bd3058ae2a" version="1">Save Volo from an untimely death.</content>
+  <content contentuid="he4353844gb446g9a28gf726gda0bd84dd98c" version="1">Silver-Tongue's Better Than Any Key</content>
+  <content contentuid="h5d47cc05gd39cgab80g46d2g33eff5d1cf2f" version="1">Gain access to Avery's workshop.</content>
+  <content contentuid="h3508e38eg8ab3g1578gbe97ge57da19d996f" version="1">The News of My Deeds Was Greatly Exaggerated</content>
+  <content contentuid="h1eea9ae8gccbbg2998gcb18g1642c8c24680" version="1">Rig the Baldur's Mouth printing press.</content>
+  <content contentuid="h7ee1396eg1e8cg0062gc821ga79a461e45c5" version="1">Grave Prospector</content>
+  <content contentuid="h72672d19g0ca8g37e4gb0f4gd4e8102b86a2" version="1">Retrieve the grave's gold from Bugthimble.</content>
+  <content contentuid="h8ef4b122gb2fcg03bagb940g20dd4e4a145f" version="1">Perks of the Trade</content>
+  <content contentuid="h2d72422dg0a2dg297ag08d8g98deb0e28bb4" version="1">Obtain a rebate for your room at the Elfsong Tavern.</content>
+  <content contentuid="hff2b7713g74e8g04c8ge3d5gf6829bb25556" version="1">Winged Serpent of Gold</content>
+  <content contentuid="h745af56bge556g1133gaa92g302c81702802" version="1">Side with the Zhentarim against Nine-Fingers.</content>
+  <content contentuid="h1b4494ccgaf98gdc9cgd17age854e29ce70d" version="1">Woman of Her Word</content>
+  <content contentuid="h51430dd6gcaa1g82d5g9465g646728e7167c" version="1">Side with the Nine-Fingers against the Zhentarim.</content>
+  <content contentuid="h16f36ad2gc7a8g9ae8g03ecgd835c09950c0" version="1">Always Trust a Dishonest Person</content>
+  <content contentuid="h1a7efa2fg418ag9e57g4d74g5b5284f666cd" version="1">Betray a recently forged alliance.</content>
+  <content contentuid="h633b3b78g5585g8edfg6d27gc26be569dbba" version="1">Legend of Baldur's Gate</content>
+  <content contentuid="he28e6e23g9190gb603gc747g59389794eb3a" version="1">Act 3</content>
+  <content contentuid="h032b021cged92gf9d8ge3fegf4b23d951fb0" version="1">Blabbermouth</content>
+  <content contentuid="h5077ae6ag73a2g2791ga6a7g3d673fe431c3" version="1">Complete Lens' interview.</content>
+  <content contentuid="h5bcdc0f6gf3cfg3835gc781gc901a867bb44" version="1">Drama Sleuth</content>
+  <content contentuid="h7a3ee788gf70bge9c0g987ag635a3e200ba0" version="1">Take up Valeria's investigation.</content>
+  <content contentuid="h3ca43b5ag358fgbb50g55c2g9e54d7f32de6" version="1">Taking the Spotlight</content>
+  <content contentuid="hbf5ba6ffg8e5dg9b95gc093g6fd62af7f12b" version="1">Willingly step up to the circus' stage.</content>
+  <content contentuid="h5ecc5bd9g51e0ged7dgfe83gaf39c24f62ad" version="1">Skald's Song</content>
+  <content contentuid="h238f2515g6c46g1f89ge3f0g0736450f45ec" version="1">Witness the Gur funeral.</content>
+  <content contentuid="h1975b640gfdc2g244ag53bfg8ed85c2a0235" version="1">Explosive Artistry</content>
+  <content contentuid="h70a82f5dgf7a6g4620g757bg31afb8dedb3a" version="1">Obtain the runepowder bomb from Wulbren.</content>
+  <content contentuid="h2356b228g6672g0c60g6e5dg99f1601b0095" version="1">Giving a Private Performance</content>
+  <content contentuid="h3f1a75bdga252gc0a1g21c3gf0e5cfc95bc2" version="1">Accept one of the offers at Sharess' Caress.</content>
+  <content contentuid="h7c4e7495g3c99gc849gd1e9g73236b654227" version="1">Personal Invitation</content>
+  <content contentuid="h188b08b3g46bcg6d95gc6b2ga7eb9b0c4fc6" version="1">Witness Gortash's coronation.</content>
+  <content contentuid="hc89c2a7fgcdb9ge9b6g79fag94a0a92e36d4" version="1">Making It Sing to Your Tune</content>
+  <content contentuid="heda95fd5g878ag8d83g3e8ega28e2c8d8673" version="1">Sabotage the printing press.</content>
+  <content contentuid="h762f4ac8g6437g5009gd504gf9a321dbe4d7" version="1">Playing Sune</content>
+  <content contentuid="h714bc4b9geb00ga714g326egc14f6b0a73f1" version="1">Nudge Svend to accept Siggy's proposition.</content>
+  <content contentuid="h431fc932g6950g4309ge3fcgdccbf72cc01c" version="1">The Throes of Love</content>
+  <content contentuid="h1bcb70c2gc9c9g6873g020bg4f86a9859b2a" version="1">Save Oskar's life.</content>
+  <content contentuid="h0a6ff092g6e4dg778fg7936g3aa8b4f4133c" version="1">Threads of Fame</content>
+  <content contentuid="h9d3c15a9g93b5ga8b8ga6c6g5f1b7fa3968f" version="1">Obtain a piece of clothing from the famous Figaro.</content>
+  <content contentuid="he5d99316gc11fgfcb4g0fc7g07c38a6bbf25" version="1">A Stand-Up Adventurer</content>
+  <content contentuid="hea592e5agf5cagd46dgf83cg9f6d30aabbdb" version="1">Win the comedy contest.</content>
+  <content contentuid="h94b156a3ge9f8gf927gc08bg708516d23b0d" version="1">At Least They Didn't Throw Overripe Bananas... </content>
+  <content contentuid="hec8bfaf6g009bge7e4ga49dg7c32be71f9da" version="1">Lose the comedy contest.</content>
+  <content contentuid="h3623d258gcc52g58aagd066gaa09a9093598" version="1">Finding her Stage</content>
+  <content contentuid="hecf3111ag4358gf767ga71ag2dddb6ef4119" version="1">Reunite with Alfira in Baldur's Gate.</content>
+  <content contentuid="h75c6bb52gbe64g636egbc3cg44d06474171b" version="1">Alien in the Big City</content>
+  <content contentuid="h8c44cce0ga2ebga9eag1848g92e72e3abdff" version="1">Meet and acquaint yourself with Ptaris.</content>
+  <content contentuid="haf052d09g155ag54d2g78e3ge012b6fb73f0" version="1">Sea Memorial</content>
+  <content contentuid="h56664288g1464gb1bfg8810gaabb00d27164" version="1">Offer something during the Water Queen's funeral procession.</content>
+  <content contentuid="h208f1797g9820gc5c5gc9a8g7dc4696b0b22" version="1">Villain of the Ages</content>
+  <content contentuid="h43e81959ge545g0e07g869eg5fe3cbb8bfd3" version="1">Encounter Sarevok, wretched spawn of the dark God Bhaal</content>
+  <content contentuid="h3cddefb8g6810g96f3gb506g7ba60bebf0d6" version="1">Blade of Frontiers</content>
+  <content contentuid="h3dc93d3bge16bgb1c1ga014gb3b5b3dfe1f8" version="1">Act 3</content>
+  <content contentuid="h168d948bgdc01g66b1g3cc0g8a91d7b9a5ee" version="1">Securing Hospitality</content>
+  <content contentuid="h976b5624g03e6gba9fg23dcgf6adea58b270" version="1">Save the squatters from being kicked out.</content>
+  <content contentuid="hf8852709g3368g5b92g5150g0cd2225dece3" version="1">Trusting Your Instincts</content>
+  <content contentuid="h90cd70fbgbb31gde0bg4206ge352bf66a5c4" version="1">Take up Valeria's shoddily concluded investigation.</content>
+  <content contentuid="h50619372ge047gd79ag09cfgf61092132e8b" version="1">Truth Shines Through</content>
+  <content contentuid="hd4d4b6b4g940agf9fegd1ccg65fe356985cb" version="1">Find the true culprit behind the serial murders.</content>
+  <content contentuid="hc593d915gee8dg66f2g91c8gff41b76dae08" version="1">Innocence Lost</content>
+  <content contentuid="h82d576a7g5a5bgcf3dgadf8g8457147c05c4" version="1">Expose the toy-maker's mischief.</content>
+  <content contentuid="hbeae2b59g1263gaa51g40beg16f1570cfa22" version="1">Keeping Your Hands Clean</content>
+  <content contentuid="h79a5e1d5gbcfbg0e33g1128g03b87c98a230" version="1">Refuse to cause collateral damage with Wulbren's plan.</content>
+  <content contentuid="h4a459b95g5408g8800g61efg8ce98799ce10" version="1">In Need of a Hero</content>
+  <content contentuid="hc7b9171bg0906gb463g08ddgc8bb776b9800" version="1">Successfully rescue all the Gondians from the Steel Watch Foundry.</content>
+  <content contentuid="h75099eb6g9f99g209egb8b6gd0dfb8a67aa0" version="1">Diplomatic Rescue</content>
+  <content contentuid="hc09656d2gb1c7g298fgc968g4db94bdb3ceb" version="1">Save Counsellor Florrick from Wyrm's Rock.</content>
+  <content contentuid="ha519fea2gc0fbgc39bg4763gc123c12bd32f" version="1">Empathy for the Fallen</content>
+  <content contentuid="h047c715bgc3c1g6e10g3c28g7432a398b36e" version="1">Convince the coffin-maker to make an exception.</content>
+  <content contentuid="h533fbabfg05b5g8956g937dgba79e99973d8" version="1">Wyrmslayers</content>
+  <content contentuid="h424809a9g9564ga05bgad24gb77baa02425b" version="1">Challenge and defeat Ansur, the not-so-immortal sentinel of Wyrm's Crossing.</content>
+  <content contentuid="hef3828bag7ea4gfef2g8eaege52d38f39cf9" version="1">Against All Odds</content>
+  <content contentuid="h14f8d21ege009g5defgb58cga6fdfd65b157" version="1">Rescue all the captured Gondians' family members.</content>
+  <content contentuid="hba2c2491gfaefg9b72g42d5gdaaf0a4b80ff" version="1">Safeguarding the Songbird</content>
+  <content contentuid="h036f3f3bg8e01g18b2g9565gf27d0e828b92" version="1">Meet the unflappable Alfira in Baldur's Gate.</content>
+  <content contentuid="h775caba3g54e0g5809g339agc4b17a43892f" version="1">A Bet Is a Bet</content>
+  <content contentuid="he81c38c2g01adg2a75gf845g98136538bac1" version="1">Meet with Lakrissa in Baldur's Gate.</content>
+  <content contentuid="h4725dd31gc1fbg34cag4d63g3813b5a5a4de" version="1">Painted Hero</content>
+  <content contentuid="h636a9ad3gcd69gb026g66c5g0f99e50bbd4c" version="1">Obtain your portrait from Oskar.</content>
+  <content contentuid="h25b44f11g244cg0865gc327gb299e620ac84" version="1">Never To Be Chained Again</content>
+  <content contentuid="h16cc521cg50e4g40cfgd6fcgb2a70c612c1e" version="1">Defeat Lorroakan and let Nightsong execute her vengeance.</content>
+  <content contentuid="h3d5d7035g75e7g6796ga330g581c93e6c124" version="1">End of the Tribunal</content>
+  <content contentuid="h19350cd4gf13bgdda8g3699gdb960a955d56" version="1">Save Valeria and end the Murder Tribunal.</content>
+  <content contentuid="h18ba3623g8221g06c8g7738g37298e6df372" version="1">Freeing the Preyed</content>
+  <content contentuid="h7eec13aeg880cg64begd4c1gc79f369b285e" version="1">Free Hope from captivity.</content>
+  <content contentuid="hb9a05212gdc55g38aeg467bg9de37c9c0407" version="1">Chained, Unfortunate Souls</content>
+  <content contentuid="he8bb06bfg24fcg7632g6c67ga39d2fc7c28e" version="1">Rescue the vampire spawn from Cazador's lair.</content>
+  <content contentuid="h3f3c1ebfgfa8agc94cgffc5g879a7825381a" version="1">Grove Tender</content>
+  <content contentuid="h46f6a6c2gc7b1g1292g1632gf9254df7d492" version="1">Act 3</content>
+  <content contentuid="h7d0fdf6ag6922g85e0g522bg7a6ee3b0f641" version="1">Blood War Veteran</content>
+  <content contentuid="h8be4dd63g22a7gdfe5g10a7g9e62876ccb88" version="1">Act 3</content>
+  <content contentuid="h0faff784gd78ag41bfg1353gdabbef30bd14" version="1">Macabre Enigma</content>
+  <content contentuid="h6e475b41g8b9eg6db0gef1dg447f8c5d06a7" version="1">Piece the corpse of Dribbles back together.</content>
+  <content contentuid="h6a9a3fb9g7fccg2a59gbc98ge67f0327e1ef" version="1">Encouraging Local Artists</content>
+  <content contentuid="hd2b61315gfa9bg6b4fgdc89gfa7cf78ca420" version="1">Commission a statue of yourself.</content>
+  <content contentuid="h934a09ddgff3bg366fge292g28f1589118a5" version="1">Immoral Ingenuity</content>
+  <content contentuid="h74b28ecfgb294g46d6g627cgd16c0db90f4a" version="1">Discover the booby-trapped toys.</content>
+  <content contentuid="h2b53b1deg4be3gae96g431cgd19ef504512c" version="1">Dream Big</content>
+  <content contentuid="hb7081aa4gb3b5g3a99g842eg22aa558d1b26" version="1">Describe your perfect weapon to Gyldro Angleiron.</content>
+  <content contentuid="hea1f9442g6b06g35edg66c8g36e7d3280872" version="1">Alternative Vocations</content>
+  <content contentuid="h5eb9f267ga2e4g1025gf059g461a86a88cd7" version="1">Partake in the lurid services of Sharess' Caress.</content>
+  <content contentuid="hbf720b03g6fe1gc2a0g0177g42c4e92ab30e" version="1">Free Advertisement</content>
+  <content contentuid="h39b205ddg57fbg4f85g7730g39c0bb012f3a" version="1">Complete the interview with Lens.</content>
+  <content contentuid="hc3cd12e2g65bag78c3g6fa3g19775db614bf" version="1">Following the Instructions</content>
+  <content contentuid="hb102895bg0aa6gd07cg8879ge4af8e1097ff" version="1">Return the Sentient Amulet to Shirra.</content>
+  <content contentuid="h35512802gc52dga901g45ecgf38313676aba" version="1">The Art of Destruction</content>
+  <content contentuid="ha30bd1f2g6e41g208fg37d5g59ce2014a65f" version="1">Use the runepowder bomb to destroy the Steel Watch Foundry.</content>
+  <content contentuid="h597c172eg2f27gc185g595eg16c0f548ed05" version="1">Putting the Pen to Paper</content>
+  <content contentuid="h05b55cb8gb6dcga2ebga7c7g8edaeb10de07" version="1">Discover the inner workings of the Baldur's Mouth printing press.</content>
+  <content contentuid="h091e097ag621dgb51dg68c5g100731a7b7df" version="1">Sanguine Progress</content>
+  <content contentuid="h32a1fe45g0093geebag8eecg7d72cae7186e" version="1">Find out what happened to Araj and her blood experiment.</content>
+  <content contentuid="hafff920bga54dgc7fageff4g696cb479945f" version="1">These Belong in a Museum!</content>
+  <content contentuid="hc33eee3bg76abgc8e7g718dgf6ca4a09df9a" version="1">Open any of the special vaults in the Counting House.</content>
+  <content contentuid="hb40211d9gd6e3ga556g5488g44d97c94f3d2" version="1">Soured Taste</content>
+  <content contentuid="he6e1f144g5f38gbd40g6a22gf725938939a8" version="1">Find the poisoned wine bottle.</content>
+  <content contentuid="h4d10690ag4344gbd5agf2f2gf8ce96a4d4cb" version="1">Extravagance Required</content>
+  <content contentuid="he640751bg3a0fg1a87g077cge57bfe3bc772" version="1">Acquire an exquisite new outfit from Figaro's.</content>
+  <content contentuid="hf8fccf83geb58g7c56g1e9dgba03d45ecc37" version="1">Touring the Sights</content>
+  <content contentuid="h4717aff4g6d94g8608g1435g81be2b0345d0" version="1">Correctly identify all of the Devil's Fee's relics.</content>
+  <content contentuid="he249e9f2g66f0g3b40gcb96g4f65ec64f11e" version="1">Flames of Passion</content>
+  <content contentuid="hcf56ef57g168eg2e59g3d85g152eeff68e75" version="1">Burn Oskar's painting with a Torch of Revocation.</content>
+  <content contentuid="h9e37ef96g84bdgec5eg6dceg56aef7fc050c" version="1">Lantanna Marvel</content>
+  <content contentuid="hc62d209bg9d24g7ec9gc576g6b3cfd6a2901" version="1">Take control of the submersible.</content>
+  <content contentuid="hc47bc759gfeecgfa8egdf1fg009bb9d9736a" version="1">Gifts of the Wilds</content>
+  <content contentuid="h2ed8d13bg5831gf99dg4ed7g81c7b2659280" version="1">Give raw goods as a donation.</content>
+  <content contentuid="hb9660622g1d2bg4da4gbd89g86c359e095a8" version="1">Running Wild</content>
+  <content contentuid="hc59983e8ga3f3g2595ga87ag6a978f2776a1" version="1">Release all the imprisoned circus beasts.</content>
+  <content contentuid="hf1744646gfa55g833cg00cbg8ceb29d253c9" version="1">Primary Needs</content>
+  <content contentuid="he91056fcg85edg226cg7c1dg5190a37a6a93" version="1">Tame the dilophosaurus, making it non-hostile towards you.</content>
+  <content contentuid="hc9fb3e08g1383g2949gb449ga6a7da633c9b" version="1">Solemn Farewell</content>
+  <content contentuid="ha2e3475dg6d02g4cb9gb5e9gbd53fd119ce2" version="1">Witness the Gur funeral.</content>
+  <content contentuid="h7329b063gbf2ag874cg64bdg9f0f04dad8cb" version="1">Catastrophic Structural Failure</content>
+  <content contentuid="h4cb99318gf02cgd085g3c74g7edd603b45c6" version="1">Blow up the Steel Watch Foundry.</content>
+  <content contentuid="h67cb6043ga421g7437g8a1dge7c03d4554bb" version="1">Enlisted Avian</content>
+  <content contentuid="h34b4df12g06fdgfaddge8b2g39e08604704e" version="1">Meet Commander Lightfeather.</content>
+  <content contentuid="h8c6f9304gfe2ag0863g4482g0e013add8cac" version="1">Cat's Got Your Tongue?</content>
+  <content contentuid="h4c882754g71d7g6d5bg8cbbgae10ba18acfc" version="1">Find the missing letters.</content>
+  <content contentuid="ha72f9395g179fg73c9gca44g15d7fef1e9f5" version="1">Macabre Hunt</content>
+  <content contentuid="hea9bd567g8a92gb717g4b78g5f201e4edaa5" version="1">Find all the pieces of Dribbles' body and return them to Lucretious.</content>
+  <content contentuid="h447e6ad6g68a8gadd4g0b7agda68790b88eb" version="1">Horizon Walker</content>
+  <content contentuid="h0d2ba223gd36fg9915g02ddgf8c9cabca55e" version="1">Travel through the House of Hope portal.</content>
+  <content contentuid="h0b3c28a3g7701g4da2gd556gd85eff61ab01" version="1">For Once, a Warm Meal</content>
+  <content contentuid="h640b924ega6d1gdbbbg9039gecac1469fbfa" version="1">Obtain room and board at the Elfsong Tavern.</content>
+  <content contentuid="h5ed3ca2dg865eg8fe9g99f2g1ef6c90bef1f" version="1">Nature of the Beast</content>
+  <content contentuid="h53c5d742g0243gbebdg6396gc9fba42a4f2b" version="1">Discover the fate of the githyanki egg.</content>
+  <content contentuid="hbb24b436g9794g96c8ga7b3g461aa60ec83c" version="1">Urban Jungle</content>
+  <content contentuid="hc8457b62gadf3g9480g17deg8caf36aa0ab4" version="1">Survive the Bhaalist ambush at the park.</content>
+  <content contentuid="heb662a35g7e2fg5936gceb3g3fa53cf32b26" version="1">Beneath the Gate</content>
+  <content contentuid="hc25071a7g28fcgc0c0gf303gd25ded4c398b" version="1">Enter the Undercellar.</content>
+  <content contentuid="he2cd586ag63abg72adg6b33g3520918ceab9" version="1">Children of an Outlander</content>
+  <content contentuid="hc9773d10gaf12ge6ccgb09bg913deaddc300" version="1">Convince Jaheira to let her family stay in the city.</content>
+  <content contentuid="hfdc5290bg29bdgcc0ege11fgbde32f84ead6" version="1">Down to the Depths Below</content>
+  <content contentuid="ha977acc4g0b20gc69dg94ddg3e31c3ae0ec5" version="1">Enter the Iron Throne.</content>
+  <content contentuid="hf547e8f7gd201g153ag2d1dge087652f111a" version="1">The Face of Evil</content>
+  <content contentuid="h9eecb802g77fbgc896gd0e6gb09515713d9f" version="1">Reach the Temple of Bhaal.</content>
+  <content contentuid="h7c931580g0baegf1e1g8f7egba5a2f2aa2bd" version="1">Underdark Exile</content>
+  <content contentuid="h612f75e4g877bgcd8cg5657gae6073b8bffd" version="1">Act 3</content>
+  <content contentuid="hf85f351bg88e1g8bc7geb36gd9c4f292585b" version="1">Exerting Judgement</content>
+  <content contentuid="h500eaf0ag5b17g68bfgaf91g83e491828cf2" version="1">End the squabbling between the merchant and the squatters.</content>
+  <content contentuid="h26fb71d7gbdddg10d0g62c5g4da9c3e2e932" version="1">Alms for the Unfortunate</content>
+  <content contentuid="ha57a3193g0cfdg5941g7b5bg09db93da73a6" version="1">Donate something to the refugees.</content>
+  <content contentuid="h199b8126g28d3ge1fbg802fg525fdb7ef7c7" version="1">The Right Oil for Any Situation</content>
+  <content contentuid="he6de1543g5be0g6396ga143ge4cdb93ce9d4" version="1">Gain access to the circus.</content>
+  <content contentuid="h6a58b0d8g2856g63b7gd0e4g40d9fbca713e" version="1">The Means of Coercion</content>
+  <content contentuid="h1c07c3b1ga926g6f56g8051g5737aa040222" version="1">Find the true reason the Gondians are cooperating with Gortash.</content>
+  <content contentuid="h6bae4b48gf8c5gb34fg2cebg4ad82f02cc3d" version="1">Interrupted Communications</content>
+  <content contentuid="h2abf1eebg289ag036dg07f3g3509ccd9a2e0" version="1">Discover where the missing letters went.</content>
+  <content contentuid="h329c1eefgbb3cg111eg76fdga618ce20f614" version="1">Multipass</content>
+  <content contentuid="h82abc1c6g90f7gb924geeabgfbba95e3a3ac" version="1">Use the urgent Ravengard missive to pass the Flaming Fist checkpoint.</content>
+  <content contentuid="hd0761efbg7896g6510g2ad4g0e57c67b4982" version="1">Newfound Subject</content>
+  <content contentuid="hae57475cge842gbbd9g95dbg27241908a716" version="1">Feed a brain to the freshly turned mind flayer.</content>
+  <content contentuid="he8a42f30g4d7cga854ga9e6g4266e11666c7" version="1">Backing the Established Players</content>
+  <content contentuid="hc39a068dgd7a6g2faag010cg776ff0c26d5e" version="1">Side with the Guild during the confrontation.</content>
+  <content contentuid="h2e71062fg202fg2e4bg9c1bgf31db6d90674" version="1">An Apocalyptic Deal</content>
+  <content contentuid="he0b13436g5fccg1296gf922g1d1e10bf9871" version="1">Accept an impossible deal.</content>
+  <content contentuid="h6c29c7f7gd201g256fg0bb7gca2e47a237f4" version="1">Procedures be Damned</content>
+  <content contentuid="hc83efc25ge59agdd93gd7b1gf6c417257200" version="1">Enter Wyrm's Rock without a pass.</content>
+  <content contentuid="hb30c7941g29bfg6c30g0d49g78dffd36de70" version="1">Press Release</content>
+  <content contentuid="he360867cg2c50g0d6eg12a3g4e2ddbccb271" version="1">Complete Lens' interview.</content>
+  <content contentuid="h286d165agfb26gd47bgbe00ge9c8a176e8f8" version="1">Defamed No More</content>
+  <content contentuid="hb0c0beb7g268bg7637g9303g71f8c36ca3cc" version="1">Sabotage the printing press.</content>
+  <content contentuid="h8fc68376gc3f7g69c7g95efg225df0292da8" version="1">Wine Connoisseur</content>
+  <content contentuid="h596dc613g323dgde32g52b5g6eff594573ed" version="1">Warn Mrs Highberry of the poisoned wine.</content>
+  <content contentuid="ha98b31fcga76bgeb37g99d5g05a1fbd6b96b" version="1">Updating Your Wardrobe</content>
+  <content contentuid="h355a63d7g0fedg08bfg8841g1132c5cea7f8" version="1">Obtain a sumptuous new garment from Figaro's.</content>
+  <content contentuid="h68f09918g07c7g60d2g54deg5df5722c6137" version="1">Underbelly Diplomat</content>
+  <content contentuid="h40acf1afg87adg8234gd7fag92b1c61da3f8" version="1">Gain access to the Undercellar.</content>
+  <content contentuid="h1531300fg69adgf3eag9ba4g0976274eb909" version="1">The Wealth of Morality</content>
+  <content contentuid="hbc1960c2g139bg05d8ga5f5g67e24ba73d2c" version="1">Choose your allegiance between the Guild and the Zhentarim.</content>
+  <content contentuid="h8c4728f6gf4f5g609bg30d5g8d21911acdec" version="1">Titles for the Collection</content>
+  <content contentuid="hf03df4cegf20ag3c60g834cg42784604fe7d" version="1">Become the Unholy Assassin of Bhaal.</content>
+  <content contentuid="h297b359dg210fg13ceg8a82g8ba71714fdd9" version="1">A Grand Prize!</content>
+  <content contentuid="h0f206eebg49cdge606g121egc65088a5cb34" version="1">Figure out Akabi's scheme and obtain the 'grand' prize.</content>
+  <content contentuid="hf3ee827bgc7fdgf4bag9e40g048c152b5831" version="1">A Foul and Awesome Display</content>
+  <content contentuid="hf2799327g2643ga036gb969g662d58dc6771" version="1">Use Wulbren's runepowder bomb.</content>
+  <content contentuid="h216ff2b9g90aegeeb5g20a5gdcfdf6f6995f" version="1">New Normal</content>
+  <content contentuid="h4a028822geffdg5328g02f0g81d91901a2db" version="1">Let yourself be scanned by a Steel Watcher.</content>
+  <content contentuid="h00436292g0e9fg2223g081cgcc4d4afb4c7e" version="1">Assistant to the Extra-Planar Agent</content>
+  <content contentuid="h2e29b707g4047g1cc2gaec4g54e05759868c" version="1">Take up Valeria's serial killer investigation.</content>
+  <content contentuid="h024084b8g6a99gc418g4efag3fb92782c7e1" version="1">Knowledge of the Heart</content>
+  <content contentuid="h583cad36g7e46gbff0gf2b2ga66d3b6cf235" version="1">Get a fresh perspective on your relationship with a companion. </content>
+  <content contentuid="h99301f01g059aga6d8g59eeg2c337e7e4d5b" version="1">Coronation of the Dreadmaster</content>
+  <content contentuid="ha1d46aeagf689g8a89g7d9bg67237ab78a94" version="1">Meet Gortash in Wyrm's Rock and witness his coronation.</content>
+  <content contentuid="h50bb8373g0e34gba30g46a5g4e147390247e" version="1">Heavy is the Head</content>
+  <content contentuid="h4ca70dc7g477ag31a5g41c4g9703522f6a22" version="1">Find the Helm of Balduran.</content>
+  <content contentuid="hde13ef38gdfa7g0f7cgf578ge9c97145d6ba" version="1">Rennaissant Ingenuity</content>
+  <content contentuid="h8072cdacg622agde14gfc07g333ef7db17eb" version="1">Uncover the machinery powering the printing press.</content>
+  <content contentuid="hacd6e056g2c03gc8aaga56dg7bf11ef6b9ac" version="1">Blood of the Covenant</content>
+  <content contentuid="h7f6f7d55g2659g1f02gd7c7gf1f17d696012" version="1">Found out how Araj's blood experiments are going.</content>
+  <content contentuid="hefaf7314g22a0gb89dgb97eg2b10c7a850d4" version="1">Waterdavian Magus</content>
+  <content contentuid="hfa76e390g1d1fg258eg85d0g4d3aeb77360d" version="1">Act 3</content>
+  <content contentuid="h50fd2f9cga0acg9eccg40b6gf7e8a04fff79" version="1">Membership Admittance</content>
+  <content contentuid="hc6e1e207g3194ge1e1ged1eg84b2e4361fea" version="1">Ask to join the Society of Brilliance.</content>
+  <content contentuid="h13f2b0ceg7f20ga10dg4a34gc5b546214d34" version="1">Crossing's Namesake</content>
+  <content contentuid="h1a475a62gf02dgabceg33ecge0d4a057b519" version="1">Discover the undying sentinel underneath Wyrm's Crossing.</content>
+  <content contentuid="h5126bcd4gb53ag6d8cga07dgc37ac2922c1a" version="1">An Exotic Charter</content>
+  <content contentuid="heecdb44ag5824g2292g519dg7a880e13e218" version="1">Obtain access to the House of Hope portal.</content>
+  <content contentuid="h565224d4g2447g28a5g14adg4b02767cf17c" version="1">The Returned Cap'n</content>
+  <content contentuid="h8c6daf7dg0603g4529g4b30g490c641574c4" version="1">Behold the true Captain Grisly in all her piratical glory. </content>
+  <content contentuid="hd12107f7g0f40g893ag88bag33c8aa3d0513" version="1">Using the Proper Means</content>
+  <content contentuid="h152d2f6cg81f4g93dcg1f79g60cf0c1441ed" version="1">Find and use the Torch of Revocation.</content>
+  <content contentuid="h28f71a30g5087g7c65g5753ga23ff23c0011" version="1">The Karsus of Our Times</content>
+  <content contentuid="h9f86262eg71d2g23a3gf4d5gbd34d227933c" version="1">Give Nightsong to Lorroakan.</content>
+  <content contentuid="hb5d27ff9g2b88g9757gc10bga3219271ac08" version="1">Stopping the Repetition of History</content>
+  <content contentuid="h8f862ff8ga36cge18fgc89cg37e2bb998595" version="1">Defeat Lorroakan.</content>
+  <content contentuid="hc22dfaf1gba37gd8efg5591g9adf1a3e5d8e" version="1">Astral Zealot</content>
+  <content contentuid="hf92fa657gefb5g8002gc08fge1da39a31fac" version="1">Act 3</content>
+  <content contentuid="h649d9c33gbc42gcd6bg90bbg22f9c839625e" version="1">Sharing the Spoils</content>
+  <content contentuid="h46e2fc65ga420ga892g4d00g4c3be9818fc0" version="1">Donate to the refugees.</content>
+  <content contentuid="h72d5e493g5af8gb85fg0a8cg875a850dda7c" version="1">Removing Chaotic Actors</content>
+  <content contentuid="h2b951660g9359gd05fgefdag7b4732ee7cd3" version="1">Remove the head of the deep gnome insurrectionists.</content>
+  <content contentuid="h49e855b1g798fg817bg90a0gd2f981350b8a" version="1">Love That Smell</content>
+  <content contentuid="h4ff025c4g0074g972fg1b19g5d8778020c29" version="1">Aid the deep gnomes and use the runepowder bomb to blow up the Steel Watch Foundry.</content>
+  <content contentuid="h158af3a9g874dg9e14g3436gcd0da32ed266" version="1">Reporting for Duty</content>
+  <content contentuid="h0da55e64gffbbg3d60g5e96g83f08804b65b" version="1">Report to Commander Lightfeather.</content>
+  <content contentuid="h21280166g77fag0407g9525gcae198fbfb07" version="1">Court Marshall</content>
+  <content contentuid="h2bfbe7d7g0fd7g22c7g2f5dg589bfbab9f6b" version="1">Expose the Flaming Fist deserter.</content>
+  <content contentuid="hca2b7f93g016cg5ddag7b39gabe8340c2525" version="1">Great Helm of Legends</content>
+  <content contentuid="h4623bd39gb867gfda2geaa1g7fd254bf5264" version="1">Find the Helm of Balduran.</content>
+  <content contentuid="h3c0046aag328dg15e2gb8b7g481397e991d6" version="1">Veteran's Hotspot</content>
+  <content contentuid="hc6fb7f63g529eg30f9gb132gb5db166710df" version="1">Purchase a room at the Elfsong Tavern.</content>
+  <content contentuid="hf5c1378dg3294g60a5g1511g81c98ab501c4" version="1">Double-Tap</content>
+  <content contentuid="ha074e8c9ga11fga3c6g9a59g080af8dc332e" version="1">Kill Auntie Ethel... again... </content>
+  <content contentuid="h4d74bd86gfd13g7877g4975g0157166f288b" version="1">Urgent Communications</content>
+  <content contentuid="ha5931be9ga525g2d3eg3c0egea10ee392c4b" version="1">Commune with the Netherbrain.</content>
+  <content contentuid="h10abf8a7ge002g5938gf763g4ff80290b50b" version="1">Knives in the Dark</content>
+  <content contentuid="hedcbe1fegfce1g3e50g8d1dg490246c6aa02" version="1">Survive the confrontation in the Sharran Cloister.</content>
+  <content contentuid="hd8f3c2a4gd2d7g646fgdf72g27b0f6e162e2" version="1">Hot Exit</content>
+  <content contentuid="h30dd84eegd200g1b1fg45d0gf869eff9c5d3" version="1">Escape the House of Hope.</content>
+  <content contentuid="h8b2faee4g354eg17adgb727gdea52564111d" version="1">Kicking the Rust Bucket</content>
+  <content contentuid="h9e8d4c85g8dc6gd27bg436fgff3a8b5d99ff" version="1">Destroy a Steel Watcher.</content>
+  <content contentuid="he4558a48g5139gb0f0g2dadg7e4054c4bbf4" version="1">Innovations in Volatility</content>
+  <content contentuid="ha7e5c40egfeacg40d3g9ba5ge3b1ba794ab0" version="1">Give your blood to Araj a second time.</content>
+  <content contentuid="h1b50200ag3e84g99b3ga603g55a6ca698876" version="1">Regicide</content>
+  <content contentuid="ha0476b69gdaa3g2b2fge486ga66b763460ab" version="1">Execute Gortash.</content>
+  <content contentuid="h93a90666gb176g249cgbc6dge045c81e0db9" version="1">Putting the Past to Rest</content>
+  <content contentuid="h94bd7958ge5ffg3a07g3662geefde7c5bc56" version="1">Execute Orin.</content>
+  <content contentuid="h07f04090gebe7gedadg9dcfge11f936d1423" version="1">Rudolph Van Richtover My Dead Body</content>
+  <content contentuid="hdd651a75ge9bagc52dgcbb1gecbb8dd23a1f" version="1">Defeat the Ascended Cazador.</content>
+  <content contentuid="hec69854egf400g6403g53b7gbe44fa450341" version="1">World-Wise Heroine</content>
+  <content contentuid="h4ab2b822g8205g6be8g690bgc5359aab80bc" version="1">Act 3</content>
+  <content contentuid="h1e38bd99g0a87ge6faga3b2g508476a3050b" version="1">Finders Keepers</content>
+  <content contentuid="h33520701g4391g7f9cge6c3ga184a24cb83e" version="1">Help the squatters keep their temporary abode.</content>
+  <content contentuid="hea1c7f0cg988cgccdeg7182gaeeb90a90ae2" version="1">Give Nothing Back</content>
+  <content contentuid="h4e0009d2gc5c2g083egdbd8g4090355d38fc" version="1">Take donations from the big barn.</content>
+  <content contentuid="haa3590dfgfd21g6a09g0251gd803d7d6ab0a" version="1">Spare What You Can</content>
+  <content contentuid="hf577f9d8ga349g223ag5217g1d6391b64abe" version="1">Give a donation to the big barn.</content>
+  <content contentuid="h16ba83cdg6fc8g75fdg2f9fg6ea1bb39a401" version="1">Child Safety</content>
+  <content contentuid="hcc6786b7ge198g72d2g5b15gee1d1f40c12c" version="1">Expose Arfur for his booby-trapped toys.</content>
+  <content contentuid="h6b50bff8g85f4gc79bgf13ag1bec6c1d6c09" version="1">A Dish Served Cold</content>
+  <content contentuid="h5afc1926gddb2g98c5g277cg295e7c6e904a" version="1">Destroy the Steel Watch Foundry.</content>
+  <content contentuid="h08f61cbfga45ag4ca2ge26dg874136fa0082" version="1">Easing His Leave, and His Pockets</content>
+  <content contentuid="h92be1153ga4f1g9630g93e9g7013fe8327fb" version="1">Blackmail the Flaming Fist deserter.</content>
+  <content contentuid="h5ebc0cb0gc991gd39agca3bg9eeafb3de08a" version="1">Never Trust Those Above You</content>
+  <content contentuid="h9018eeb5g304fg16f8gc33dg4ff5cef4b1c1" version="1">Defeat Gortash without making a deal with him.</content>
+  <content contentuid="hf5ed141fg91bbg0222g843ag2826742e2025" version="1">Down with the Steel Oppressors!</content>
+  <content contentuid="h0c3a1b4age536g96e8gcf68ga439480bf535" version="1">Defeat a Steel Watcher.</content>
+  <content contentuid="h2a71687dgc784g3854g4cf6gfe16ddf8eefd" version="1">Through Nooks and Crannies</content>
+  <content contentuid="haeaf3fc2g522aged5agc946g42d40839dcce" version="1">Enter Wyrm's Rock without a pass or invitation.</content>
+  <content contentuid="hf01e32e9gd17bg19e5g6541gefaa38774ca4" version="1">Part of Life</content>
+  <content contentuid="h9b1f8318g3893gdc5bg0bd3g222cc92cc262" version="1">Convince the coffin maker to make an exception.</content>
+  <content contentuid="h2f0412eege195g8ad8g3ee8g938b36344d2a" version="1">Proper Lodging, Finally</content>
+  <content contentuid="hc9a60efbg08bbg6190gf017g315fc75ac71b" version="1">Obtain a room at the Elfsong Tavern.</content>
+  <content contentuid="hcbaa00cega762gc8aaga803g2099be585d46" version="1">Estrangement of Ethel</content>
+  <content contentuid="he6168bf3gc2d4g41e0g46c1g83a6ea026eaa" version="1">Defeat Auntie Ethel permanently.</content>
+  <content contentuid="h3eacb5a4g2332gdeb4g6b05g6993887474b4" version="1">Finding Vanra</content>
+  <content contentuid="h6bc1d462gd12bg678dgcbabgf01a8b18bd09" version="1">Find and free Lora's abducted child.</content>
+  <content contentuid="hb03792eag8703gd6feg2a07geb55c8705038" version="1">Good Intentions</content>
+  <content contentuid="h59217c12g6b8ag21c4g53a6gc4c78ba920e5" version="1">Help Nina with her ritual.</content>
+  <content contentuid="hbc134496g73e9ga180g4d39g4d27ff271b88" version="1">Home Sweet Home</content>
+  <content contentuid="h8aef6aeeg6698g14cag1351g93c83fd54398" version="1">Delve into the Undercellar of Baldur's Gate.</content>
+  <content contentuid="h3c4acb4egd849gaf5ege4e9g83d91e4be32a" version="1">Cherishing Family</content>
+  <content contentuid="hb8792becgf499g55d2gd7a9g704b7c0e3c22" version="1">Convince Jaheira to let her family stay in the city.</content>
+  <content contentuid="hf4783af6gea14g94d2gb4d9gcf08478c61c0" version="1">Cunning Code Crackers</content>
+  <content contentuid="hcbf6141fg984ag0300g182bgda384b3368fb" version="1">Discover the secret passphrase and enter Avery's secret workshop.</content>
+</contentList>
